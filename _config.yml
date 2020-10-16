@@ -11,9 +11,9 @@ title                    : "Jesse Johnston"
 title_separator          : "-"
 name                     : &name "Jesse A. Johnston"
 description              : &description "Working in Ann Arbor, Michigan."
-url                      : https://morskyjezek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://morskyjezek.github.io/morsky-academe # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "morskyjezek/morsky-academe"
+repository               : # "morskyjezek/morsky-academe" # remove to correct relative links?
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
