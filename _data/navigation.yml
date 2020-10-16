@@ -16,5 +16,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: "http://www.jesseajohnston.net/vita" # /cv/
+    url: http://www.jesseajohnston.net/vita # /cv/
     
