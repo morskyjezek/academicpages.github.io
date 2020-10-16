@@ -13,7 +13,7 @@ name                     : &name "Jesse A. Johnston"
 description              : &description "Working in Ann Arbor, Michigan."
 url                      : https://morskyjezek.github.io/morsky-academe # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # "morskyjezek/morsky-academe" # removed to correct links in subpages?
+repository               : "morskyjezek/morsky-academe"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
