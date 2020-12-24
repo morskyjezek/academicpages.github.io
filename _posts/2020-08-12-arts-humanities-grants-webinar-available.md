@@ -1,17 +1,18 @@
 ---
-title: 'Arts & Humanities Federal Grants Strategies'
+title: 'Strategies for Arts & Humanities Federal Grants'
 date: 2020-08-12
-permalink: /posts/2020/arts-humanities-federal-grants-strategies/
+permalink: /posts/2020/strategies-arts-humanities-federal-grants/
 tags:
   - grants
   - research
   - arts
   - humanities
   - research development
-  - webinar
+  - webinars
 ---
 
-This post summarizes my August 12 webinar, "Strategies for Federal Humanities and Arts Funding," which was presented for the University of Michigan's research development team. The webinar offered an overview of some of the current grant and fellowship programs offered by the cultural agencies of the U.S. federal government. Although specific in many ways to federal grants, the general approaches discussed here are also of use to anyone applying for grants.<!-- more -->
+This post summarizes my August 12 webinar, "Strategies for Federal Humanities and Arts Funding," which was presented for the University of Michigan's research development team. The webinar offered an overview of some of the current grant and fellowship programs offered by the cultural agencies of the U.S. federal government. Although specific in many ways to federal grants, the general approaches discussed here are also of use to anyone applying for grants.
+<!-- more -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38u7m9Zzrfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
