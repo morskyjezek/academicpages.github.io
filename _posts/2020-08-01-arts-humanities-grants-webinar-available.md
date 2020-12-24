@@ -11,7 +11,7 @@ tags:
   - webinar
 ---
 
-On August 12, I presented "Strategies for Federal Humanities and Arts Funding," a webinar for the University of Michigan's research development team. The webinar offered an overview of some of the current grant and fellowship programs offered by the cultural agencies of the U.S. federal government. Although specific in many ways to federal grants, the general approaches discussed here are also of use to anyone applying for grants.
+This post summarizes my August 12 webinar, "Strategies for Federal Humanities and Arts Funding," which was presented for the University of Michigan's research development team. The webinar offered an overview of some of the current grant and fellowship programs offered by the cultural agencies of the U.S. federal government. Although specific in many ways to federal grants, the general approaches discussed here are also of use to anyone applying for grants.<!-- more -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38u7m9Zzrfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

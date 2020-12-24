@@ -8,10 +8,9 @@ tags:
   - arts
   - humanities
   - research development
-excerpt: 'Researchers in the arts and humanities often seek fellowships for individuals, but don't forget to look beyond those programs when seeking funding!'
 ---
 
-Researchers in the arts and humanities often seek support for their work through fellowships and other awards that support single investigators. This approach to work is supported by funders through programs like the National Endowment for the Humanities (NEH) [Fellowships](https://www.neh.gov/grants/research/fellowships), and by the National Endowment for the Arts (NEA) [creative writing support](https://www.arts.gov/grants/creative-writing-fellowships). In fact, in some cases these awards are synonymous with grants: I’ve had many conversations with people who talk about "getting an NEH," in reference to someone receiving a fellowship award from the NEH.
+Researchers in the arts and humanities often seek support for their work through fellowships and other awards that support single investigators. But don't forget to look beyond those programs when seeking funding!<!-- more --> The single-investigator approach to funding is supported through programs like the National Endowment for the Humanities (NEH) [Fellowships](https://www.neh.gov/grants/research/fellowships), and by the National Endowment for the Arts (NEA) [creative writing support](https://www.arts.gov/grants/creative-writing-fellowships). In fact, in some cases these awards are synonymous with grants: I’ve had many conversations with people who talk about "getting an NEH," in reference to someone receiving a fellowship award from the NEH.
 
 ![Distribution of funding across NEH grantmaking divisions and offices in fiscal year 2017.]({{ site.url }}{{ site.baseurl }}/images/neh-fy17-funding.png)
 
