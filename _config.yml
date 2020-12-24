@@ -14,7 +14,7 @@ description              : &description "Working in Ann Arbor, Michigan."
 url                      : https://new.jesseajohnston.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # "morskyjezek/morsky-academe" # remove to correct relative links?
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "jj-sqr.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false # use `true` if you want future posts to be rendered on main site
