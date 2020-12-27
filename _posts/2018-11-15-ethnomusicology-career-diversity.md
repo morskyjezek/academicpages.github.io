@@ -59,7 +59,8 @@ Year | Event
 2014 | Mellon pilot grant to AHA
 2016 | Mellon “Career Diversity” grant to AHA ($1.5 mil)<br />SEM Preconference @ Library of Congress: Public Sector Ethnomusicologies
 2016&ndash;2018 | NEH Humanities NextGen PhD<br />Planning: 29 grants, $1,187,845<br />Implementation: 3 grants, $2,099,838
-<p>Table: recent timeline of select career diversity programs</p>
+
+<p style="font-weight: bold; font-size: small;">Table: recent timeline of select career diversity programs</p>
 
 ## Career diversity in ethnomusicology
 
