@@ -7,10 +7,11 @@ header:
   teaser: "tape-red-th.png"
 categories: 
   - ethnomusicology
-  - conference talks
 tags:
-  - ethnomusicology
+  - career diversity
   - humanities
+  - sem2018
+  - conference talks
 ---
 
 Good morning everyone! I’d like to thank Dave for organizing this panel, and Dwan for chairing. I think those of us up here today have known each other in various capacities, but working somewhat externally to the discipline proper, we don’t always get the chance to see each other and interact a whole lot. So it’s a pleasure to be here. 

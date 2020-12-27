@@ -7,10 +7,10 @@ header:
   teaser: 'tape-red-th.png'
 categories: 
   - archives
-  - conference talks
 tags:
   - humanities
   - neh
+  - conference talks
 ---
 
 _The National Endowment for the Humanities sponsored “Play/back,” a symposium on audiovisual preservation, on September 30, 2016. As one of the planners of the event, I moderated a panel of archivists and scholars who talked about audio and moving image collections. Below is a lightly edited version of my introduction to the panel._
