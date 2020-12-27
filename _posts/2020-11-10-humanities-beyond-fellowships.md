@@ -2,12 +2,14 @@
 title: 'Arts & Humanities Grants: Beyond Fellowships'
 date: 2020-11-10
 permalink: /posts/2020/humanities-grants-beyond-fellowships/
+categories:
+  - humanities
 tags:
   - grants
   - research
   - arts
-  - humanities
   - research development
+  - neh
 ---
 
 Researchers in the arts and humanities often seek support for their work through fellowships and other awards that support single investigators. But don't forget to look beyond those programs when seeking funding!<!-- more --> The single-investigator approach to funding is supported through programs like the National Endowment for the Humanities (NEH) [Fellowships](https://www.neh.gov/grants/research/fellowships), and by the National Endowment for the Arts (NEA) [creative writing support](https://www.arts.gov/grants/creative-writing-fellowships). In fact, in some cases these awards are synonymous with grants: I’ve had many conversations with people who talk about "getting an NEH," in reference to someone receiving a fellowship award from the NEH.
