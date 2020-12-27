@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jesse"
   avatar           : "jj-sqr.png"
-  bio              : 
+  bio              : # "Working in Ann Arbor, Michigan."
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
