@@ -27,4 +27,4 @@ In this spirit of dialogue, our panel sessions were structured as prepared conve
 
 > Humanists and others must lend their voices to the preservation conversation, particularly to inform the choices around selection of audio recordings for preservation, rather than leaving the issue to benign neglect or survival of the fittest.
 
-__These remarks were also [post on my blog](https://culturalorganology.wordpress.com/2016/10/14/playback-challenges-of-audio-preservation), where you can also find a list of the speakers from the panel and their topics.__
+__These remarks were [cross-posted on my blog](https://culturalorganology.wordpress.com/2016/10/14/playback-challenges-of-audio-preservation) and [medium](https://medium.com/archives-records/challenges-for-audio-preservation-30eeb4c48fe0), where you can also find a list of the speakers from the panel and their topics.__
