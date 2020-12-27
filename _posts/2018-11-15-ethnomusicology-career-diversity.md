@@ -53,14 +53,13 @@ Those for whom a system is working often don't have a high incentive to make cha
 
 In 2015 and 2016, I was involved in a group that developed a program at NEH focused on the “Next Generation Humanites PhD.” This program was offered through NEH’s “challenge” program, which meant that recipients had to match any awarded funds dollar for dollar and to commit local resources and fundraising to support any project. Based on data, like that of the Humanities Indicators reports, we knew that humanities PhDs pursue many different professions, in and out of academia. The goal of the grants, then, was to create space to devise new or alter extant doctoral education models to “both transform the understanding of what it means to be a humanities scholar and promote the integration of the humanities in the public sphere.” Although there was a wide variety of possible activities, which were evaluated for fit to the applicant’s needs, the supported activities included things like “multi-departmental collaboration, transformations in curricula, modifications in stipend structures, altered formats for dissertations, commitment to collection of alumni career information and outcomes, partnerships with non-university entities, as well as a pledge to encourage doctoral students to explore and prepare for multiple career trajectories.” In other words, support for new ideas about what scholarly output can and might look like, support for internships and practicums, multi-disciplinary collaboration, and the encouragement of mentoring through alumni networks. In the end, only 3 of the large grants were awarded, resulting in financial resources of about 2 million dollars spread between Duke University, University of Chicago, and University of Delaware. That program was halted under the current Presidential administration. A smaller, “planning” program that could at least motivate conversations and planning actions, has continued, and it has resulted in about $1.2 million dollars across 29 awarded projects, which have served a much wider constituency. _(Note as of 2020: The quotes in this paragraph come from program documents, which are no longer available since the program was discontinued in 2018.)_ 
 
-## Recent select timeline of career diversity
-
 Year | Event
 --- | ---
 2011 | [ACLS/Mellon public fellows](https://www.acls.org/programs/publicfellowscomp/)
 2014 | Mellon pilot grant to AHA
 2016 | Mellon “Career Diversity” grant to AHA ($1.5 mil)<br />SEM Preconference @ Library of Congress: Public Sector Ethnomusicologies
-2016&ndash;2018 | NEH Humanities NextGen PhD<br /><ul><li>Planning: 29 grants, $1,187,845</li><li>Implementation: 3 grants, $2,099,838 </li></ul>
+2016&ndash;2018 | NEH Humanities NextGen PhD<br />Planning: 29 grants, $1,187,845<br />Implementation: 3 grants, $2,099,838
+<p>Table: recent timeline of select career diversity programs</p>
 
 ## Career diversity in ethnomusicology
 
