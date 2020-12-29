@@ -113,10 +113,10 @@ author_profile: true
 
 <h4>2012</h4>
 <ul>
-    <li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="static/papers/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)
-    <li>&ldquo;Of Singing Trees and Roaring Rivers: Sounding Out South Moravian Sound Terrains.&rdquo; Midwest Slavic Conference, Columbus, Ohio.
-    <li>&ldquo;Tensions of Managing and Using: A Qualitative Study of Audio Archiving.&rdquo; Research forum platform presentation, Annual Meeting of the Society of American Archivists, San Diego, California. (<a href="http://www2.archivists.org/proceedings/research-forum/2012">link to forum proceedings</a>)
-    <li>Panelist, &ldquo;Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries.&rdquo; Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.
+<li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="static/papers/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)
+<li>&ldquo;Of Singing Trees and Roaring Rivers: Sounding Out South Moravian Sound Terrains.&rdquo; Midwest Slavic Conference, Columbus, Ohio.
+<li>&ldquo;Tensions of Managing and Using: A Qualitative Study of Audio Archiving.&rdquo; Research forum platform presentation, Annual Meeting of the Society of American Archivists, San Diego, California. (<a href="http://www2.archivists.org/proceedings/research-forum/2012">link to forum proceedings</a>)
+<li>Panelist, &ldquo;Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries.&rdquo; Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.</li>
 </ul>
 
 <h4>2011</h4>
@@ -128,25 +128,25 @@ author_profile: true
 
 <h4>2010</h4>
 <ul>
-    <li><div itemscope itemtype="http://schema.org/Article"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><span itemprop="publisher" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><meta itemprop="url" content="http://www.jesseajohnston.net/static/papers/Johnston-SEM2010-webversion.pdf"/><meta itemprop="image" content="static/papers/Johnston-SEM2010-webversion.pdf"/><a href="static/papers/Johnston-SEM2010-webversion.pdf">&ldquo;<span itemprop="name">Sound Terrains: &lsquo;Soundscape,&rsquo; Place, and Nature in South Moravia</span>.&rdquo;</a><meta itemprop="headline" content="Sound Terrains: 'Soundscape' Place, and Nature in South Moravia"/> Annual Meeting of the <span itemprop="audience">Society for Ethnomusicology</span>, <span itemprop="locationCreated">Los Angeles, California</span>. (<a href="static/papers/Sound-Terrains-slides.pdf" class="pdf">presentation slides in pdf</a>)<meta itemprop="datePublished" datetime="2010-11-12" content="12 November 2010"/><meta itemprop="genre" content="conference presentation"/></div>
-    <li>&ldquo;Moravia as Global Crossroads: Local and &lsquo;World&rsquo; Music in the Southeast Czech Republic.&rdquo; <i>Central and Eastern Europe: Musical Crossroads?</i> Annual Meeting of the Russian and East European Music Study Group, British Association of Slavonic and East European Studies, Faculty of Music, Oxford University.
-    <li>&ldquo;Radio Brno, the <i>Brněnsk&yacute; kr&uacute;žek</i> (Brno Circle) and Folk Creativity in Moravia.&rdquo; Czech and Slovak Music and Related Arts conference, Grand Valley State University, Allendale, Michigan.
+<li><div itemscope itemtype="http://schema.org/Article"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><span itemprop="publisher" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><meta itemprop="url" content="http://www.jesseajohnston.net/static/papers/Johnston-SEM2010-webversion.pdf"/><meta itemprop="image" content="static/papers/Johnston-SEM2010-webversion.pdf"/><a href="static/papers/Johnston-SEM2010-webversion.pdf">&ldquo;<span itemprop="name">Sound Terrains: &lsquo;Soundscape,&rsquo; Place, and Nature in South Moravia</span>.&rdquo;</a><meta itemprop="headline" content="Sound Terrains: 'Soundscape' Place, and Nature in South Moravia"/> Annual Meeting of the <span itemprop="audience">Society for Ethnomusicology</span>, <span itemprop="locationCreated">Los Angeles, California</span>. (<a href="static/papers/Sound-Terrains-slides.pdf" class="pdf">presentation slides in pdf</a>)<meta itemprop="datePublished" datetime="2010-11-12" content="12 November 2010"/><meta itemprop="genre" content="conference presentation"/></div>
+<li>&ldquo;Moravia as Global Crossroads: Local and &lsquo;World&rsquo; Music in the Southeast Czech Republic.&rdquo; <i>Central and Eastern Europe: Musical Crossroads?</i> Annual Meeting of the Russian and East European Music Study Group, British Association of Slavonic and East European Studies, Faculty of Music, Oxford University.
+<li>&ldquo;Radio Brno, the <i>Brněnsk&yacute; kr&uacute;žek</i> (Brno Circle) and Folk Creativity in Moravia.&rdquo; Czech and Slovak Music and Related Arts conference, Grand Valley State University, Allendale, Michigan.</li>
 </ul>
 
 <h4>2009</h4>
 <ul><li>&ldquo;Instilling &lsquo;True American Spirit&rsquo;? Music at the Culion Leprosarium [Philippines].&rdquo; Annual Meeting of the Society for Ethnomusicology, Mexico City, Mexico.
-    <li>&ldquo;The Traditional and the Global: Understanding &lsquo;World Music&rsquo; in Moravia.&rdquo; World Conference of the International Council for Traditional Music, Durban, South Africa.
+<li>&ldquo;The Traditional and the Global: Understanding &lsquo;World Music&rsquo; in Moravia.&rdquo; World Conference of the International Council for Traditional Music, Durban, South Africa.
 </ul>
 
 <h4>2008</h4>
 <ul><li>&ldquo;Making &lsquo;World Music&rsquo; Local in Moravia.&rdquo; Annual Meeting of the Society for Ethnomusicology, Middletown, Connecticut.
-    <li>&ldquo;Instrumental Roots: The Dulcimer in the Baca Band.&rdquo; Fourth International Musicology Colloquium, N&aacute;měšť nad Olšavou, Czech Republic.
-    <li>&ldquo;Classical Folk Music: Broadcasting Folk Culture in Communist Moravia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Ypsilanti, Michigan.
+<li>&ldquo;Instrumental Roots: The Dulcimer in the Baca Band.&rdquo; Fourth International Musicology Colloquium, N&aacute;měšť nad Olšavou, Czech Republic.
+<li>&ldquo;Classical Folk Music: Broadcasting Folk Culture in Communist Moravia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Ypsilanti, Michigan.
 </ul>
 
 <h4>2007</h4>
 <ul><li>&ldquo;&lsquo;People&rsquo;s Music&rsquo; and Modernism: Leoš Jan&aacute;ček and Folkloric Performance.&rdquo; Association for the Advancement of Slavic Studies, New Orleans, Louisiana. <span class="highlight">**Awarded the Louise Cuyler prize by the Department of Musicology, University of Michigan**</span>
-    <li>&ldquo;Local Sounds? Fieldwork, YouTube, and the &lsquo;Romanian&rsquo; Cimbalom in Moravian Slovakia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Terre Haute, Indiana.
+<li>&ldquo;Local Sounds? Fieldwork, YouTube, and the &lsquo;Romanian&rsquo; Cimbalom in Moravian Slovakia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Terre Haute, Indiana.
 </ul>
 
 <h4>2004</h4>
@@ -156,15 +156,15 @@ author_profile: true
 ## Reviews
 
 <ul>
-    <li>Book Review of <em>Prague Soundscapes</em>, ed. Zuzana Jurková et al. (Karolinum Press, 2014). <em>Yearbook for Traditional Music</em> 49 (2017).</li>
+<li>Book Review of <em>Prague Soundscapes</em>, ed. Zuzana Jurková et al. (Karolinum Press, 2014). <em>Yearbook for Traditional Music</em> 49 (2017).</li>
 
-    <li>Book Review of <em>Dangdut Stories: A Social and Musical History of Indonesia&rsquo;s Most Popular Music</em> by Andrew N. Weintraub (Oxford Univ. Press, 2010). <em>Notes</em> 68 (2011).</li>
+<li>Book Review of <em>Dangdut Stories: A Social and Musical History of Indonesia&rsquo;s Most Popular Music</em> by Andrew N. Weintraub (Oxford Univ. Press, 2010). <em>Notes</em> 68 (2011).</li>
 
-    <li>Book Review of <em>Music of Central Java</em> by Benjamin Brinner (Oxford Univ. Press, 2008). <em>Asian Music</em> 42 (2011).</li>
+<li>Book Review of <em>Music of Central Java</em> by Benjamin Brinner (Oxford Univ. Press, 2008). <em>Asian Music</em> 42 (2011).</li>
 
-    <li>Book Review of <em>Sounds of the Silk Road: Musical Instruments of Asia</em>, text by Mitchell Clark (Boston, 2005). <em>Asian Music</em> 41 (2010).</li>
+<li>Book Review of <em>Sounds of the Silk Road: Musical Instruments of Asia</em>, text by Mitchell Clark (Boston, 2005). <em>Asian Music</em> 41 (2010).</li>
 
-    <li>Book Review of <em>Koment&aacute;ře [Commentary]</em>, vol. 1 of <i>Jan&aacute;čkovy z&aacute;znamy hudebn&iacute;ho a tanečn&iacute;ho folkloru [Jan&aacute;ček’s Records of Musical and Dance Folklore]</i>, ed. Jarmila Proch&aacute;zkov&aacute; (Brno, 2006). <em>Kosmas Czechoslovak and Central European Journal</em> 20 (2007).</li>
+<li>Book Review of <em>Koment&aacute;ře [Commentary]</em>, vol. 1 of <i>Jan&aacute;čkovy z&aacute;znamy hudebn&iacute;ho a tanečn&iacute;ho folkloru [Jan&aacute;ček’s Records of Musical and Dance Folklore]</i>, ed. Jarmila Proch&aacute;zkov&aacute; (Brno, 2006). <em>Kosmas Czechoslovak and Central European Journal</em> 20 (2007).</li>
 </ul>
 
 > Updated July 2020
