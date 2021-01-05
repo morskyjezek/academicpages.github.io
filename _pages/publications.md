@@ -124,7 +124,7 @@ author_profile: true
     <li>&ldquo;Digital Preservation and the American Black Journal at MATRIX.&rdquo; Research poster, annual meeting of the American Society for Information Science & Technology, New Orleans, Louisiana.</li>
     <li><a href="static/papers/ABJ-posterfinal.pdf">&ldquo;Preserving the American Black Journal at MATRIX: Developing a Long-Term Strategy to Preserve and Access Online Digital Video.&rdquo;</a> Research poster, <em>Archives 360&deg;</em>, Annual Meeting of the Society of American Archivists, Chicago, Illinois.</li>
     <li>&ldquo;Ideologies of Music and Postsocialist Possibilities in South Moravia.&rdquo; 41st World Conference of the International Council for Traditional Music, St. John&rsquo;s, Newfoundland, Canada. (Panel organizer, &ldquo;Musical Tradition and Transition in Global Postsocialisms.&rdquo;)</li>
-    <li>&ldquo;Performance as Archives in Southeast Asia: An Ethnomusicological Perspective.&rdquo; National Conference of the Association for Asian Studies, Honolulu, Hawai'i.
+    <li>&ldquo;Performance as Archives in Southeast Asia: An Ethnomusicological Perspective.&rdquo; National Conference of the Association for Asian Studies, Honolulu, Hawai'i.</li>
 </ul>
 
 <h4>2010</h4>
