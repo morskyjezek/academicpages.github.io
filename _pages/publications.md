@@ -18,7 +18,7 @@ author_profile: true
 ## Articles
 
   <ul>
-      <li><div itemscope itemtype="http://schema.org/ScholarlyArticle"><div itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"></div><meta itemprop="headline" content="Using the Library of Congress&amp;rsquo; Web Cultures Web Archive: Archiving Digital Expressive Culture and Building Collections">&ldquo;<span itemprop="name">Using the Library of Congress&rsquo; Web Cultures Web Archive: Archiving Digital Expressive Culture and Building Collections</span>.&rdquo; Co-authored with Trevor Owens and Nicole Saylor.
+    <li><div itemscope itemtype="http://schema.org/ScholarlyArticle"><div itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"></div><meta itemprop="headline" content="Using the Library of Congress&amp;rsquo; Web Cultures Web Archive: Archiving Digital Expressive Culture and Building Collections">&ldquo;<span itemprop="name">Using the Library of Congress&rsquo; Web Cultures Web Archive: Archiving Digital Expressive Culture and Building Collections</span>.&rdquo; Co-authored with Trevor Owens and Nicole Saylor.
           <em><span itemscope itemprop="isPartOf" itemtype="http://schema.org/Periodical"><span itemprop="name">New Directions in Folklore</span></span></em> <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume"><span itemprop="VolumeNumber">18</span></span>, <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue">no. <span itemprop="IssueNumber">1</span></span> (<span itemprop="datePublished">2020</span>): <span itemprop="pagination">1&ndash;23</span>.
           
           (<a href="https://scholarworks.iu.edu/journals/index.php/ndif/article/view/31246" class="" itemprop="url">link</a>)</div></li>
@@ -116,11 +116,12 @@ author_profile: true
 <li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="static/papers/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)
 <li>&ldquo;Of Singing Trees and Roaring Rivers: Sounding Out South Moravian Sound Terrains.&rdquo; Midwest Slavic Conference, Columbus, Ohio.
 <li>&ldquo;Tensions of Managing and Using: A Qualitative Study of Audio Archiving.&rdquo; Research forum platform presentation, Annual Meeting of the Society of American Archivists, San Diego, California. (<a href="http://www2.archivists.org/proceedings/research-forum/2012">link to forum proceedings</a>)
-<li>Panelist, &ldquo;Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries.&rdquo; Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.</li>
+<li>Panelist, &ldquo;Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries.&rdquo; Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.
 </ul>
 
 <h4>2011</h4>
-<ul><li>&ldquo;Digital Preservation and the American Black Journal at MATRIX.&rdquo; Research poster, annual meeting of the American Society for Information Science & Technology, New Orleans, Louisiana.
+<ul>
+<li>&ldquo;Digital Preservation and the American Black Journal at MATRIX.&rdquo; Research poster, annual meeting of the American Society for Information Science & Technology, New Orleans, Louisiana.
 <li><a href="static/papers/ABJ-posterfinal.pdf">&ldquo;Preserving the American Black Journal at MATRIX: Developing a Long-Term Strategy to Preserve and Access Online Digital Video.&rdquo;</a> Research poster, <em>Archives 360&deg;</em>, Annual Meeting of the Society of American Archivists, Chicago, Illinois.
 <li>&ldquo;Ideologies of Music and Postsocialist Possibilities in South Moravia.&rdquo; 41st World Conference of the International Council for Traditional Music, St. John&rsquo;s, Newfoundland, Canada. (Panel organizer, &ldquo;Musical Tradition and Transition in Global Postsocialisms.&rdquo;)
 <li>&ldquo;Performance as Archives in Southeast Asia: An Ethnomusicological Perspective.&rdquo; National Conference of the Association for Asian Studies, Honolulu, Hawai'i.
@@ -130,7 +131,7 @@ author_profile: true
 <ul>
 <li><div itemscope itemtype="http://schema.org/Article"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><span itemprop="publisher" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><meta itemprop="url" content="http://www.jesseajohnston.net/static/papers/Johnston-SEM2010-webversion.pdf"/><meta itemprop="image" content="static/papers/Johnston-SEM2010-webversion.pdf"/><a href="static/papers/Johnston-SEM2010-webversion.pdf">&ldquo;<span itemprop="name">Sound Terrains: &lsquo;Soundscape,&rsquo; Place, and Nature in South Moravia</span>.&rdquo;</a><meta itemprop="headline" content="Sound Terrains: 'Soundscape' Place, and Nature in South Moravia"/> Annual Meeting of the <span itemprop="audience">Society for Ethnomusicology</span>, <span itemprop="locationCreated">Los Angeles, California</span>. (<a href="static/papers/Sound-Terrains-slides.pdf" class="pdf">presentation slides in pdf</a>)<meta itemprop="datePublished" datetime="2010-11-12" content="12 November 2010"/><meta itemprop="genre" content="conference presentation"/></div>
 <li>&ldquo;Moravia as Global Crossroads: Local and &lsquo;World&rsquo; Music in the Southeast Czech Republic.&rdquo; <i>Central and Eastern Europe: Musical Crossroads?</i> Annual Meeting of the Russian and East European Music Study Group, British Association of Slavonic and East European Studies, Faculty of Music, Oxford University.
-<li>&ldquo;Radio Brno, the <i>Brněnsk&yacute; kr&uacute;žek</i> (Brno Circle) and Folk Creativity in Moravia.&rdquo; Czech and Slovak Music and Related Arts conference, Grand Valley State University, Allendale, Michigan.</li>
+<li>&ldquo;Radio Brno, the <i>Brněnsk&yacute; kr&uacute;žek</i> (Brno Circle) and Folk Creativity in Moravia.&rdquo; Czech and Slovak Music and Related Arts conference, Grand Valley State University, Allendale, Michigan.
 </ul>
 
 <h4>2009</h4>
@@ -139,18 +140,21 @@ author_profile: true
 </ul>
 
 <h4>2008</h4>
-<ul><li>&ldquo;Making &lsquo;World Music&rsquo; Local in Moravia.&rdquo; Annual Meeting of the Society for Ethnomusicology, Middletown, Connecticut.
+<ul>
+<li>&ldquo;Making &lsquo;World Music&rsquo; Local in Moravia.&rdquo; Annual Meeting of the Society for Ethnomusicology, Middletown, Connecticut.
 <li>&ldquo;Instrumental Roots: The Dulcimer in the Baca Band.&rdquo; Fourth International Musicology Colloquium, N&aacute;měšť nad Olšavou, Czech Republic.
 <li>&ldquo;Classical Folk Music: Broadcasting Folk Culture in Communist Moravia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Ypsilanti, Michigan.
 </ul>
 
 <h4>2007</h4>
-<ul><li>&ldquo;&lsquo;People&rsquo;s Music&rsquo; and Modernism: Leoš Jan&aacute;ček and Folkloric Performance.&rdquo; Association for the Advancement of Slavic Studies, New Orleans, Louisiana. <span class="highlight">**Awarded the Louise Cuyler prize by the Department of Musicology, University of Michigan**</span>
+<ul>
+<li>&ldquo;&lsquo;People&rsquo;s Music&rsquo; and Modernism: Leoš Jan&aacute;ček and Folkloric Performance.&rdquo; Association for the Advancement of Slavic Studies, New Orleans, Louisiana. <span class="highlight">**Awarded the Louise Cuyler prize by the Department of Musicology, University of Michigan**</span>
 <li>&ldquo;Local Sounds? Fieldwork, YouTube, and the &lsquo;Romanian&rsquo; Cimbalom in Moravian Slovakia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Terre Haute, Indiana.
 </ul>
 
 <h4>2004</h4>
-<ul><li>&ldquo;Melodies of Ethnicity: Czechness and Polka Music at Czech-American Festivals.&rdquo; Annual Meeting of the Society for Ethnomusicology, Tucson, Arizona.
+<ul>
+<li>&ldquo;Melodies of Ethnicity: Czechness and Polka Music at Czech-American Festivals.&rdquo; Annual Meeting of the Society for Ethnomusicology, Tucson, Arizona.
 </ul>
 
 ## Reviews
