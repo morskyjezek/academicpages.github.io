@@ -108,7 +108,7 @@ author_profile: true
 
 <h4>2016</h4>
 <ul>
-    <li>&ldquo;Ethnomusicologists and Practice in the Archives.&rdquo; Annual Meeting of the Society for Ethnomusicology, Washington, DC. (<a href="https://docs.google.com/presentation/d/1miRXaSKfO8rqCqfcb9dZMNXKATksRPH8X6jOHePk2BY/edit?usp=sharing">presentation slides</a>)</li>
+    <li>&ldquo;Ethnomusicologists and Practice in the Archives.&rdquo; Annual Meeting of the Society for Ethnomusicology, Washington, DC. (<a href="https://docs.google.com/presentation/d/1miRXaSKfO8rqCqfcb9dZMNXKATksRPH8X6jOHePk2BY/edit?usp=sharing">presentation slides</a>)
 </ul>
 
 <h4>2012</h4>
@@ -116,7 +116,8 @@ author_profile: true
     <li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="static/papers/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)
     <li>&ldquo;Of Singing Trees and Roaring Rivers: Sounding Out South Moravian Sound Terrains.&rdquo; Midwest Slavic Conference, Columbus, Ohio.
     <li>&ldquo;Tensions of Managing and Using: A Qualitative Study of Audio Archiving.&rdquo; Research forum platform presentation, Annual Meeting of the Society of American Archivists, San Diego, California. (<a href="http://www2.archivists.org/proceedings/research-forum/2012">link to forum proceedings</a>)
-    <li>Panelist, &ldquo;Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries.&rdquo; Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.
+    <li>Panelist, "Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries." Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January. (2012)
+
 </ul>
 
 <h4>2011</h4>
