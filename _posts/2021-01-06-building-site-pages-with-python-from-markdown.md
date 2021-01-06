@@ -1,18 +1,18 @@
 ---
-title: 'Building Site Pages with Python from Markdown'
+title: 'Building Jekyll Site Pages with Python'
 date: 2021-01-06
-permalink: /posts/2021/building-site-pages-with-python-from-markdown/
+permalink: /posts/2021/building-site-pages-with-python/
 excerpt: 'After moving this site to jekyll, I developed a new python script to automatically generate individual pages for my teaching experiences. This post provides the code developed in a Jupyter notebook.'
 header:
   teaser: "board-electronics.png" # Image https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_content=453758
 categories:
-  - data wrangling
+  - technology
 tags:
   - python
   - teaching
   - data
+  - data wrangling
   - web publishing
-  - jekyll
 ---
 
 I recently migrated this site from a custom-built application running on GoogleAppEngine to an easier-to-maintain site that is powered via Github pages. I've been interested in creating a site of static HTML pages powered by jekyll for a while now, but until GitHub added the possibility to automagically publish repositories to the web, the greater support for [jekyll](https://jekyllrb.com/) natively, and the growing use of templates like this ([academic-pages](https://github.com/academicpages/academicpages.github.io)), I was hesitant to make the move. 
