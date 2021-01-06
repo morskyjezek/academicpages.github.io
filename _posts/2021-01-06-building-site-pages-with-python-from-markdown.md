@@ -31,12 +31,12 @@ import os
 
 ## Data format
 
-The CSV needs to have the following columns: title, type, url_slug, venue, date, location, talk_url, description, with a header at the top. Many of these fields can be blank, but the columns must be in the CSV.
+The CSV needs to have the following columns: title, type, url_slug, venue, date, location, description, with a header at the top. Many of these fields can be blank, but the columns must be in the CSV.
 
 - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `collection` defaults to "teaching" 
 - `date` must be formatted as YYYY-MM-DD.
 - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. 
-    - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/talks/YYYY-MM-DD-[url_slug]`
+    - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/teaching/YYYY-MM-DD-[url_slug]`
     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
 
 This is how the raw file looks (it doesn't look pretty, use a spreadsheet or other program to edit and create).
@@ -272,9 +272,3 @@ These files are in the teaching directory, one directory below where we're worki
     ---
     
     This course surveyed selected traditional and popular music cultures from around the globe, while also teaching basic listening and writing skills.
-
-
-
-```python
-
-```
