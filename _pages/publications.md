@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% comment %}
+{% comment %} uncomment this portion to display dynamic publications list
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
