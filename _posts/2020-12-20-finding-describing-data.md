@@ -33,7 +33,7 @@ The first step is to find the data. Many federal funders, including the NEH, NEA
 The main source for the NEH grant data, however, is the agency's open data page. As far as it is possible to tell, the data is output from the agency's database that manages the intake, review, and administration of all federal funds awarded by the NEH. This data is described and provided for download at [https://securegrants.neh.gov/open/data/](https://securegrants.neh.gov/open/data/). The data is also provided and linked via data.gov at [https://catalog.data.gov/dataset?publisher=National+Endowment+for+the+Humanities](https://catalog.data.gov/dataset?publisher=National+Endowment+for+the+Humanities).
 The data is created and published by the US Government and is therefore not subject to copyright; the data.gov entry offers the data under  a [CCZero](http://www.opendefinition.org/licenses/cc-zero) license, which means that it is not subject to copyright restrictions.  
 
-**Note that the rest of this post is also available as a [Jupyter Notebook](add link), which can be downloaded from the GitHub repository with all of the data discussed here.**
+**Note that the rest of this post is also available as a [Jupyter Notebook](https://github.com/morskyjezek/neh-grant-data-project/blob/main/01-inventory-and-fixity.ipynb), which can be downloaded from the GitHub repository with all of the data discussed here. File references discussed below indicate files included in my [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).**
 
 # Using Python to establish inventory and metadata
 
@@ -157,3 +157,5 @@ for path, fixity in bag.entries.items():
 
 Now we have created basic metadata for this group of files, two types of fixity signatures (sha256 and sha512), and an inventory of the files (see `neh-grants-data-202012/manifest-sha256.txt`). This will serve as a basic description of the original files. In the next activities, we will continue to work with this information, but the original files
 will remain unchanged and available for further consultation or work beyond this project. All of our work will be to extract, transform, and clean the data that we pull from these files, which will be the basis for further computation, visualization, or other analysis. 
+
+View the valid bag, including the `data` directory, the fixity manifest, and the tags manifest at [https://github.com/morskyjezek/neh-grant-data-project/tree/main/neh-grants-data-202012](https://github.com/morskyjezek/neh-grant-data-project/tree/main/neh-grants-data-202012).
