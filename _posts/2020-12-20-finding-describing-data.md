@@ -2,7 +2,7 @@
 title: 'Wrangling Humanities Data: Part 1, Finding and Describing Data'
 date: 2020-12-20
 permalink: /posts/2020/finding-describing-data/
-excerpt: 'This post begins a series that will walk through basic steps in a data preservation and analysis workflow. In this first step, I walk through the process of creating basic preservation metadata about a group of files using BagIt. The first post in the "Wrangling NEH Data" series.'
+excerpt: 'This post begins a series that will walk through basic steps in a data preservation and analysis workflow. In this first step, I walk through the process of creating essential preservation metadata to transform a group of files into an archivable package. This is the first post in the "Wrangling NEH Data" series.'
 header:
   teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
 categories:
