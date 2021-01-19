@@ -1,5 +1,5 @@
 ---
-title: 'Wrangling Humanities Data: Part 2, Cleaning and Transforming'
+title: 'Wrangling Humanities Data: Part 2, Cleaning and Transforming Data'
 date: 2021-01-19
 permalink: /posts/2021/cleaning-transforming-data/
 excerpt: 'This post continues the "Wrangling NEH Data" series. This installment demonstrates cleaning and transforming the original data to create a geospatial dataset.'
@@ -24,7 +24,7 @@ At a high level, the notebook (code and descriptions below) takes these steps:
 1. Clean the data by removing incorrect values, and enchance and transform the data by adding or making the data more consistent. In this case, this involves providing the geographic coordinates for the awards.
 1. Finally, export the data to geojson, a portable and lightweight format that can be used for more advanced mapping projects in later steps.
 
-**As in the previous post, you can also find a [Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/02b-transforming-geojson.ipynb), which can be downloaded from the GitHub repository along with all of the data discussed here. File references discussed below indicate files included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).**
+**As in the [previous post]({% post_url 2020-12-20-finding-describing-data %}), you can also find a [Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/02b-transforming-geojson.ipynb), which can be downloaded from the GitHub repository along with all of the data discussed here. File references discussed below indicate files included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).**
 
 # Cleaning and Transforming to Create a Geospatial Dataset
 
@@ -2950,7 +2950,7 @@ plt.show()
 ![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/output_107_0.png)
 
 
-# 02c. Exporting
+# Exporting a clean dataset
 
 ## Output the data as geojson
 
