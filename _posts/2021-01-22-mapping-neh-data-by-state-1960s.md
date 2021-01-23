@@ -19,7 +19,7 @@ This post continues "Wrangling Humanities Data," a series that walks through a d
 
 As before, the process demonstrated below is also included in This process uses the geopandas data library, which is supported in a Python environment and Jupyter notebook.
 
-**As in the [previous post]({% post_url 2021-01-19-cleaning-transforming-data %}), you can also download a [Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03a-mapping-by-state.ipynb) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).**
+*As in the [previous post]({% post_url 2021-01-19-cleaning-transforming-data %}), you can also download a [Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03a-mapping-by-state.ipynb) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
 
 
 # Mapping State by State
