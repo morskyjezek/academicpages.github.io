@@ -12,19 +12,17 @@ The following articles were written for a general audience and posted
 on the websites of the National Endowment for the Humanities and the
 Library of Congress.
 
-Library of Congress
-==
+## Library of Congress
 
 <ul><li><div itemscope="" itemtype="http://schema.org/Article"><span itemprop="url" content="https://blogs.loc.gov/thesignal/2020/06/rfs-2-0/"></span><a href="https://blogs.loc.gov/thesignal/2020/06/rfs-2-0/"><meta itemprop="author" content="Jesse Johnston, Kate Murray, Marcus Nappier, and Ted Westervelt" /><span itemprop="headline">Making a Valuable Resource Even Better: The Recommended Formats Statement and RFS 2.0</span></a>, post with Kate Murray, Marcus Nappier, &amp; Ted Westervelt, <meta itemprop="publisher" content="Library of Congress" />Library of Congress, <em>The Signal</em> (<meta itemprop="datePublished" content="2020-06-11">11 June 2020)</div></li>
 <li><a href="https://blogs.loc.gov/thesignal/2019/10/launching-the-digital-collections-management-compendium/">Launching the Digital Collections Management Compendium</a>, Library of Congress, <em>The Signal</em> (11 October 2019)</li>
 <li><a href="https://blogs.loc.gov/thesignal/2019/03/in-the-librarys-web-archives-sorting-through-a-set-of-us-government-pdfs/">In the Library&rsquo;s Web Archives: Sorting through a Set of US Government PDFs</a>, Library of Congress, <em>The Signal</em> (6 March 2019)</li>
 <li><a href="https://blogs.loc.gov/thesignal/2018/12/born-to-be-3d-born-digital-data-stewardship/">Born to Be 3D: Born-Digital Data Stewardship</a>, Library of Congress, <em>The Signal</em> (7 December 2018)</li>
-<li><div itemscope="" itemtype="http://schema.org/Article"><span itemprop="url" content="https://www.dpconline.org/blog/idpd/recap-of-born-to-be-3d-forum"><a href="https://www.dpconline.org/blog/idpd/recap-of-born-to-be-3d-forum"><span itemprop="headline">Recap of Born to Be 3D Forum Hosted by the Library of Congress</span></a>, post with <span itemprop="author" content="Jesse Johnston and Kate Murray">Kate Murray</span>, <em>Digital Preservation Coalition Blog</em><meta itemprop="publisher" itemtype="https://schema.org/Organization" content="Digital Preservation Coalition"/> (<meta itemprop="datePublished" content="2018-11-26">26 November 2018)</div></li>
+<li><div itemscope="" itemtype="http://schema.org/Article"><span itemprop="url" content="https://www.dpconline.org/blog/idpd/recap-of-born-to-be-3d-forum"><a href="https://www.dpconline.org/blog/idpd/recap-of-born-to-be-3d-forum"><span itemprop="headline">Recap of Born to Be 3D Forum Hosted by the Library of Congress</span></a>, post with <span itemprop="author" content="Jesse Johnston and Kate Murray">Kate Murray</span>, <em>Digital Preservation Coalition Blog</em><meta itemprop="publisher" itemtype="https://schema.org/Organization" content="Digital Preservation Coalition"/> (<meta itemprop="datePublished" content="2018-11-26"/>26 November 2018)</div></li>
 <li><a href="https://blogs.loc.gov/thesignal/2018/11/library-carpentry/">Building Digital Content Management Capacity with Library Carpentry</a>, Library of Congress, <em>The Signal</em> (9 November 2018)</li></ul>
 
 
-National Endowment for the Humanities
-==
+## National Endowment for the Humanities
 
 <ul>
 <!-- NEH list probably mostly complete except for, may be missing some in 2014 or 2015. -->
