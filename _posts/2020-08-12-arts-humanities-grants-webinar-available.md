@@ -3,7 +3,7 @@ title: 'Strategies for Arts & Humanities Federal Grants'
 date: 2020-08-12
 permalink: /posts/2020/strategies-arts-humanities-federal-grants/
 categories:
-  - research development
+  - research funding
 tags:
   - grants
   - research

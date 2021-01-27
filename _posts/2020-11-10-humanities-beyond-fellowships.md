@@ -3,7 +3,7 @@ title: 'Arts & Humanities Grants: Beyond Fellowships'
 date: 2020-11-10
 permalink: /posts/2020/humanities-grants-beyond-fellowships/
 categories:
-  - research development
+  - research funding
 tags:
   - grants
   - research
