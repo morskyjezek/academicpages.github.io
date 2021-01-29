@@ -16,27 +16,12 @@ redirect_from:
 * Ph.D. in Musicology, University of Michigan, 2008
 * M.S. in Information (ALA-accredited), University of Michigan School of Information, 2012
 <!-- <li>M.A. in Musicology, University of Michigan, 2004</li> -->
-*Certificate in Czech Language and Slavic Studies, Masaryk University, 2003
+* Certificate in Czech Language and Slavic Studies, Masaryk University, 2003
 * B.Mus. in Euphonium Performance and Music History (with highest honors), University of Michigan, 2002
             
-## Grants, Fellowships, and Awards
-            
-* Independent Study, Research, and Development Award, National Endowment for the Humanities (to support research on sound archives), 2016
-* [Margaret Mann](https://web.archive.org/web/20140109205847/http://bentley.umich.edu/research/guides/libarch/mann.php) Award, University of Michigan School of Information (one of two recipients recognized for academic excellence and professional promise), 2012
-* Foreign Language and Area Studies ([FLAS](http://www2.ed.gov/programs/iegpsflasf/index.html)) Fellow in Filipino, United States Department of Education, 2011&ndash;2012
-* Louise E. Cuyler Award, University of Michigan Department of Musicology (for the paper &ldquo;&lsquo;People&rsquo;s Music&rsquo; and Modernism: Leoš Jan&aacute;ček and Folkloric Performance&rdquo; presented at the American Association for the Advancement of Slavic Studies), 2008
-* Michigan Teaching Fellow, Center for Research on Learning and Teaching, University of Michigan, 2007
-* Humanities Dissertation Writing Fellowship, Rackham School of Graduate Studies, University of Michigan, 2006
-* Kohn Doctoral Fellow, Masaryk University (Brno, Czech Republic), 2006
-* Fulbright IIE Grant (Czech Republic), J. William Fulbright Board/Institute of International Education and United States Department of State, 2005&ndash;2006
-* Student Residency and Summer Research Grant (Indonesia), Center for World Performance Studies, University of Michigan, 2005
-* Summer Foreign Language and Area Studies (<a href="http://www2.ed.gov/programs/iegpsflasf/index.html">FLAS</a>) Fellow in Czech, United States Department of Education, 2003
-* Regents Fellowship, University of Michigan, 2002&ndash;2005
-* William D. Revelli Band Alumni Scholarship, University of Michigan Bands, 2000 and 2001
-
 ## Professional Experience
             
-* Associate Director for Information Strategy and Research Development at Mcubed, University of Michigan Office of Research, University of Michigan, 2020&ndash;present
+* Associate Director for Information Strategy and Research Development at Mcubed & Senior Research Development Officer, University of Michigan Office of Research, University of Michigan, 2020&ndash;present
 * Librarian (Senior Digital Collections Specialist), Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
 * Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
 * Archives Specialist, Center for Folklife and Cultural Heritage, Smithsonian Institution, 2012&ndash;2013
@@ -49,9 +34,10 @@ redirect_from:
 * Music Librarian, Interlochen Center for the Arts, summer 2000
 
 <!--
-           <h3>Professional Service</h3>
+           <h3>Academic Service</h3>
              <ul>
                 <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
+                <li>Reviewer, Recordings @ Risk, Council of Library and Information Resources, 2019&ndash;present.</li>
                 <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2017&ndash;2018.</li>
                 <li>Society for Ethnomusicology, Board Nomination Committee, 2017.</li>
                 <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2012&ndash;2013.</li>
@@ -59,7 +45,7 @@ redirect_from:
 -->
 ## Academic Positions
 
-* Adjunct Faculty, College of Information Studies, University of Maryland, 2015&ndash;present
+* Adjunct Faculty, College of Information Studies, University of Maryland, 2015&ndash;2019
 * Adjunct Lecturer, Department of Art &amp; Art History, George Mason University, 2014, 2016
 * Instructor (Ethnomusicology), Department of Musicology, Composition, and Theory, Bowling Green State University, 2009&ndash;2010
 * Lecturer I (Music History), Department of Literature, Philosophy, and Arts, University of Michigan&ndash;Dearborn, 2008&ndash;2009
@@ -99,6 +85,20 @@ redirect_from:
 * Beginning Javanese Gamelan Ensemble (teaching assistant)
 * Introduction to Developmental Psychology (teaching assistant)
 
+## Grants, Fellowships, and Awards
+            
+* Independent Study, Research, and Development Award, National Endowment for the Humanities (to support research on sound archives), 2016
+* [Margaret Mann](https://web.archive.org/web/20140109205847/http://bentley.umich.edu/research/guides/libarch/mann.php) Award, University of Michigan School of Information (one of two recipients recognized for academic excellence and professional promise), 2012
+* Foreign Language and Area Studies ([FLAS](http://www2.ed.gov/programs/iegpsflasf/index.html)) Fellow in Filipino, United States Department of Education, 2011&ndash;2012
+* Louise E. Cuyler Award, University of Michigan Department of Musicology (for the paper &ldquo;&lsquo;People&rsquo;s Music&rsquo; and Modernism: Leoš Jan&aacute;ček and Folkloric Performance&rdquo; presented at the American Association for the Advancement of Slavic Studies), 2008
+* Michigan Teaching Fellow, Center for Research on Learning and Teaching, University of Michigan, 2007
+* Humanities Dissertation Writing Fellowship, Rackham School of Graduate Studies, University of Michigan, 2006
+* Kohn Doctoral Fellow, Masaryk University (Brno, Czech Republic), 2006
+* Fulbright IIE Grant (Czech Republic), J. William Fulbright Board/Institute of International Education and United States Department of State, 2005&ndash;2006
+* Student Residency and Summer Research Grant (Indonesia), Center for World Performance Studies, University of Michigan, 2005
+* Summer Foreign Language and Area Studies (<a href="http://www2.ed.gov/programs/iegpsflasf/index.html">FLAS</a>) Fellow in Czech, United States Department of Education, 2003
+* Regents Fellowship, University of Michigan, 2002&ndash;2005
+* William D. Revelli Band Alumni Scholarship, University of Michigan Bands, 2000 and 2001
 
 ## Languages
 
