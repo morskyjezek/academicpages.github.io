@@ -521,7 +521,7 @@ The map looks a bit squashed top to bottom, but aside from that, this is a great
 
 ### Map the grants in multiple states
 
-Now, what if I want to mape the grants from more than one state? One of my goals is to map the points of all the grants in the continental US. Using similar filtering functiosn to those I used above (`.isin()` and boolean filters), I can exclude the data that I don't want. Note the specialized use of the `~` character here, in line 5, which reverses the filter, effectively displaying anything that is "False," that is to say it will return all the values not in the exclude set.
+Now, what if I want to map the grants from more than one state? One of my goals is to map the points of all the grants in the continental US. Using similar filtering functiosn to those I used above (`.isin()` and boolean filters), I can exclude the data that I don't want. Note the specialized use of the `~` character here, in line 5, which reverses the filter, effectively displaying anything that is "False," that is to say it will return all the values not in the exclude set.
 
 (In this case, my desired visualization focused on many states, so it was easy to filter out a handful. If you are working with a smaller group of states, an inclusive filtering approach might work better.)
 
