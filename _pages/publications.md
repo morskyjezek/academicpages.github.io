@@ -17,6 +17,8 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
+While working in the public sector, I frequently contributed writing for publication in less formal venues. Those pieces are listed on my ["Public Writing" page](/public-writring/).  
+
 ## Articles
 
   <ul>
