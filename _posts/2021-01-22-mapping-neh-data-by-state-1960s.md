@@ -223,7 +223,7 @@ gdf_neh_1960s.shape
 
 
 
-It looks like the data import worked well. The first four records appear as I would've expected, and the `.shape` call tells me there are 997 records, which is what it should be.
+The data import worked as expected. The first four records appear correctly, and the `.shape` call shows 997 records, which is what it should be (the CSV had 998 rows).
 
 ## Mapping State by State
 
