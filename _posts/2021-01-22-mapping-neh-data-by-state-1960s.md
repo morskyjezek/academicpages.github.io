@@ -4,7 +4,8 @@ date: 2021-01-22
 permalink: /posts/2021/mapping-neh-data-by-state-1960s/
 excerpt: 'This post continues the "Wrangling NEH Data" series. This third installment demonstrates how to map the geographic distribution of NEH funds across different states using grant data from the 1960s.'
 header:
-  teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
+  og_image: "wrangling-humanities-data/mapping-by-state/output_27_0.png"
+  teaser: "wrangling-humanities-data/mapping-by-state/output_27_0.png"
 categories:
   - mapping humanities
   - data curation
