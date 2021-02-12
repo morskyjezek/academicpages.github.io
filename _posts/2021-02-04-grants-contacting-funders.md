@@ -4,7 +4,8 @@ date: 2021-02-04
 permalink: /posts/2021/grants-contacting-funders/
 excerpt: 'Speaking with a funder can be an effective way to find out if your project is a good fit for a funding opportunity, or to learn about upcoming opportunities or new funding areas. This post offers pointers for how to initiate a conversation with a funder.'
 header:
-  image: "meeting-1280w.jpg"
+  overlay_image: "meeting-1280w.jpg"
+  overlay_filter: 0.7
   image_description: "Two people smiling and talking to each other."
   caption: "Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on Unsplash"
   og_image: "meeting-1280w.jpg"
