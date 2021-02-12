@@ -6,7 +6,7 @@ excerpt: 'Speaking with a funder can be an effective way to see how your project
 
 header:
   overlay_image: "meeting-1280w.jpg"
-  overlay_filter: 0.5
+  overlay_filter: 0.4
   image_description: "Two people smiling and talking to each other."
   caption: "Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on Unsplash"
   og_image: "meeting-1280w.jpg"
