@@ -12,7 +12,7 @@ tags:
   - humanities
 ---
 
-Speaking with a funder can be an effective way to find out if your project is a good fit for a funding opportunity, or to learn about upcoming opportunities or new funding areas. Your primary point of contact is typically a program officer (PO). These officials have a direct role in shaping funding priorities and often are involved in award decision-making; they can give you the most detailed information about an RFP. If they cannot advise you, they often can redirect you to someone who will have more information.
+Speaking with a funder can be an effective way to find out if your project is a good fit for a funding opportunity, to learn about existing and upcoming opportunities, or to understand new funding priorities. Your primary point of contact with a funder, whether a federal agency or a foundation, is typically a program officer (PO). These officials have a direct role in shaping funding priorities and often are involved in award decision-making; they can give you the most detailed information about an RFP. If they cannot advise you, they often can redirect you to someone who will have more information.
 
 # Making Contact
 
