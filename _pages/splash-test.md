@@ -19,7 +19,8 @@ feature_row:
     url: /research/
     btn_label: "My Research"
     btn_class: "btn--danger"
-  - image_path: unsplash-gallery-image-3-th.jpg
+  - image_path: lecture-hall-empty-th.jpg
+    image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
     title: "Teaching"
     excerpt: "I have taught courses at the University of Maryland, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
     btn_label: "Learn More"
