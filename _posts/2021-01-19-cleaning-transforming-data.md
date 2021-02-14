@@ -5,6 +5,7 @@ permalink: /posts/2021/cleaning-transforming-data/
 excerpt: 'This post continues the "Wrangling NEH Data" series. This installment demonstrates cleaning and transforming the original data to create a geospatial dataset.'
 header:
   teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
+read_time: false
 categories:
   - mapping humanities
   - data curation
