@@ -3,12 +3,12 @@ title: "Jesse Johnston"
 layout: splash
 permalink: /splash-page-test/
 as_of_date: 2021-02-14
-excerpt: "About Jesse"
+excerpt: "A test splash page for the site."
 header:
 #  image: baroque-library-1280w.jpg 
 #  caption: "Photo by [Valdemaras D.](https://unsplash.com/@deko_lt) on [Unsplash](https://unsplash.com/s/photos/library)"
   image: bookstacks-diagram-wide.jpg
-  alt: 'A cross-section schematic of the book stacks designed in the 1890s for the Library of Congress by the Snead & Company Ironworks, "with contributions from the architects\' and librarians\' points of view." Image cropped from "Longitudinal section of north stack, Library of Congress, Washington, D.C. (fig. 4)," Library of Congress ([LCCN 2007682525](https://www.loc.gov/item/2007682525/)).'
+#  alt: 'A cross-section schematic of the book stacks designed in the 1890s for the Library of Congress by the Snead & Company Ironworks. Image cropped from "Longitudinal section of north stack, Library of Congress, Washington, D.C. (fig. 4)," Library of Congress ([LCCN 2007682525](https://www.loc.gov/item/2007682525/)).'
 excerpt: "Jesse Johnston is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 intro:
   - excerpt: "Jesse Johnston is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
