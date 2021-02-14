@@ -18,7 +18,7 @@ feature_row:
     excerpt: "My interdisciplinary work includes research in multiple areas, spanning digital preservation, libraries, audio archives, and ethnomusicology."
     url: /research/
     btn_label: "My Research"
-    btn_class: "btn--danger"
+    btn_class: "btn--inverse"
   - image_path: lecture-hall-empty-th.jpg
     image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
     title: "Teaching"
