@@ -7,8 +7,11 @@ excerpt: "A test splash page for the site."
 header:
 #  image: baroque-library-1280w.jpg 
 #  caption: "Photo by [Valdemaras D.](https://unsplash.com/@deko_lt) on [Unsplash](https://unsplash.com/s/photos/library)"
-  image: bookstacks-diagram-wide.jpg
+#  image: bookstacks-diagram-wide.jpg
 #  alt: 'A cross-section schematic of the book stacks designed in the 1890s for the Library of Congress by the Snead & Company Ironworks. Image cropped from "Longitudinal section of north stack, Library of Congress, Washington, D.C. (fig. 4)," Library of Congress ([LCCN 2007682525](https://www.loc.gov/item/2007682525/)).'
+  image: rainbow-bookshelf-1280w.jpg
+  caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
+#  alt: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
 excerpt: "Jesse Johnston is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 intro:
   - excerpt: "Jesse Johnston is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
@@ -56,9 +59,9 @@ feature_row3:
     btn_label: "My Teaching"
     btn_class: "btn--warning"
 feature_row4:
-  - image_path: rainbow-bookshelf-th.jpg
-    image_caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
-    alt: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
+  - image_path: baroque-library-th.jpg #rainbow-bookshelf-th.jpg
+    image_caption: "Photo by [Valdemaras D.](https://unsplash.com/@deko_lt) on [Unsplash](https://unsplash.com/s/photos/library)"
+    alt: "Image of baroque library shelves and a ladder to access the upper shelves."
     title: "Public Writing"
     excerpt: "I have written features for public audiences for a variety of federal government websites as well as my own blog. These pieces span topics from work in the humanities to data curation, digital preservation, and ethnomusicology."
     url: /year-archive/
@@ -68,13 +71,15 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% comment %}
+for horizontal 3-column row: include feature_row
+{% endcomment %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 # About Me
 
