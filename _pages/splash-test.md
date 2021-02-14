@@ -65,7 +65,7 @@ feature_row4:
     title: "Public Writing"
     excerpt: "I have written features for public audiences for a variety of federal government websites as well as my own blog. These pieces span topics from work in the humanities to data curation, digital preservation, and ethnomusicology."
     url: /year-archive/
-    btn_label: "View Posts"
+    btn_label: "My Public Writing"
     btn_class: "btn--info"
 ---
 
