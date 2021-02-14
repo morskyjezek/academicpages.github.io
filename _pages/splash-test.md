@@ -23,14 +23,14 @@ feature_row:
     image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
     title: "Teaching"
     excerpt: "I have taught courses at the University of Maryland, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
-    btn_label: "Learn More"
+    btn_label: "My Teaching"
     btn_class: "btn--warning"
     url: /teaching/
   - image_path: rainbow-bookshelf-th.jpg
     image_caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
     alt: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
-    title: "Recent Work"
-    excerpt: "My blog uses recent short essays and code excerpts to explore various aspects humanities data curation, digital preservation, and collections management."
+    title: "Public Writing"
+    excerpt: "I have written features for public audiences for a variety of federal government websites as well as my own blog. These pieces span topics from work in the humanities to data curation, digital preservation, and ethnomusicology."
     url: /year-archive/
     btn_label: "View Posts"
     btn_class: "btn--info"
