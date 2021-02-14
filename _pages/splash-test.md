@@ -64,12 +64,7 @@ feature_row4:
     url: /year-archive/
     btn_label: "View Posts"
     btn_class: "btn--info"
-#redirect_from:
-#  - /about/
-#  - /about.html
 ---
-
-
 
 {% include feature_row id="intro" type="center" %}
 
