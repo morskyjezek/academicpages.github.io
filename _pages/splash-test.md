@@ -26,9 +26,36 @@ feature_row:
     alt: "Image of many rows of seats arrayed in semicircles and rising to a far wall. This appears to be an empty lecture hall."
     title: "Teaching"
     excerpt: "I have taught courses at the University of Maryland, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
+    url: /teaching/
     btn_label: "My Teaching"
     btn_class: "btn--warning"
+  - image_path: rainbow-bookshelf-th.jpg
+    image_caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
+    alt: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
+    title: "Public Writing"
+    excerpt: "I have written features for public audiences for a variety of federal government websites as well as my own blog. These pieces span topics from work in the humanities to data curation, digital preservation, and ethnomusicology."
+    url: /year-archive/
+    btn_label: "View Posts"
+    btn_class: "btn--info"
+feature_row2:
+  - image_path: open-books-th.jpg
+    image_caption: "Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/s/photos/library)"
+    alt: "Image of many books opened to different pages of text."
+    title: "Research"
+    excerpt: "My interdisciplinary work includes research in multiple areas, spanning digital preservation, libraries, audio archives, and ethnomusicology."
+    url: /research/
+    btn_label: "My Research"
+    btn_class: "btn--inverse"
+feature_row3:
+  - image_path: lecture-hall-empty-th.jpg
+    image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
+    alt: "Image of many rows of seats arrayed in semicircles and rising to a far wall. This appears to be an empty lecture hall."
+    title: "Teaching"
+    excerpt: "I have taught courses at the University of Maryland, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
     url: /teaching/
+    btn_label: "My Teaching"
+    btn_class: "btn--warning"
+feature_row4:
   - image_path: rainbow-bookshelf-th.jpg
     image_caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
     alt: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
@@ -48,7 +75,13 @@ feature_row:
 
 {% include feature_row %}
 
-# About
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+# About Me
 
 <span itemprop="name">Jesse Johnston</span><meta itemprop="description" content="Jesse Johnston is a cultural heritage professional, an educator, administrator, and musicologist who has extensive experience in the public and university sectors. He has extensive experience in the public sector as a funder and a federal program manager, as well as more than a decade of experience teaching archives and music in higher education. His research interests include performance studies, archives, postsocialism, musical instruments, musical exchange via digital media, music librarianship, and digital preservation and curation."><meta itemprop="duns" content="078589170"/><meta itemprop="naics" content="519120"/><meta itemprop="email" content="jj@jesseajohnston.net"/> is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching. He has served as the <span itemprop="jobTitle">Associate Director for Information Strategy at Mcubed</span> and Senior Research Development Officer at the University of Michigan<meta itemprop="worksFor" content="University of Michigan"/>, where he has managed activities to catalyze research in the arts and humanities across all parts of the University. As a librarian and archivist, he served as a Senior Librarian for digital content <meta itemprop="jobTitle" content="Senior Digital Collections Specialist"/> at the <span itemprop="affiliation">Library of Congress</span>. He has also served as an <span itemprop="jobTitle">Archives Specialist</span> in the Ralph Rinzler Folklife Archives and Collections at the <span itemprop="affiliation">Smithsonian Center for Folklife and Cultural Heritage</span><meta itemprop="affiliation" content="Smithsonian Institution"/> and worked on metadata and digital description for archival audio collections. As an administrator, he served as a Senior Program Officer for preservation and access and Acting Records Officer at the <span itemprop="affiliation">National Endowment for the Humanities</span> (NEH). In addition to this professional service, he has taught courses in information science and musicology at the University of Maryland<meta itemprop="affiliation" content="University of Maryland"/>, George Mason University, Bowling Green State University, and the University of Michigan&ndash;Dearborn. He maintains research interests in user practices in archives, specifically on how digitization and digital preservation impact access to cultural heritage collections as well as user practices in audio and music archives.
 
