@@ -5,25 +5,25 @@ permalink: /splash-page-test/
 as_of_date: 2021-02-14
 excerpt: "About Jesse"
 header:
-  image: /images/baroque-library-1280w.jpg 
+  image: baroque-library-1280w.jpg 
   caption: "Photo by [Valdemaras D.](https://unsplash.com/@deko_lt) on [Unsplash](https://unsplash.com/s/photos/library)"
 excerpt: "Jesse Johnston is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 intro:
   excerpt: "Jesse Johnston is an educator, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 feature_row:
-  - image_path: /images/open-books-th.jpg
+  - image_path: open-books-th.jpg
     image_caption: "Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/s/photos/library)"
     alt: "Image of many books opened to different pages of text."
     title: "Research"
     excerpt: "My interdisciplinary work includes research in multiple areas, spanning digital preservation, libraries, audio archives, and ethnomusicology."
     url: /research/
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: unsplash-gallery-image-3-th.jpg
     title: "Teaching"
     excerpt: "I have taught courses at the University of Maryland, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
     btn_label: "Learn More"
     btn_class: "btn--warning"
     url: /teaching/
-  - image_path: /images/rainbow-bookshelf-th.jpg
+  - image_path: rainbow-bookshelf-th.jpg
     image_caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
     alt: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
     title: "Recent Work"
