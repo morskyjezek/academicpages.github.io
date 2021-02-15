@@ -50,11 +50,11 @@ feature_row2:
     btn_label: "My Research"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: lecture-hall-empty-th.jpg
-    image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
-    alt: "Image of many rows of seats arrayed in semicircles and rising to a far wall. This appears to be an empty lecture hall."
+  - image_path: jesse-classroom-leftfacing-th.png # lecture-hall-empty-th.jpg
+#    image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
+    alt: "Jesse teaching a Library Carpentry workshop at the Library of Congress for a group of librarians from across the federal government." #"Image of many rows of seats arrayed in semicircles and rising to a far wall. This appears to be an empty lecture hall."
     title: "Teaching"
-    excerpt: "I have taught courses at the University of Maryland, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
+    excerpt: "I have taught courses at the Library of Congress, University of Maryland College of Information Studies, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
     url: /teaching/
     btn_label: "My Teaching"
     btn_class: "btn--warning"
