@@ -50,9 +50,8 @@ feature_row2:
     btn_label: "My Research"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: jesse-classroom-leftfacing-th.jpg # lecture-hall-empty-th.jpg
-#    image_caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/s/photos/teaching)"
-    alt: "Jesse teaching a Library Carpentry workshop at the Library of Congress for a group of librarians from across the federal government." #"Image of many rows of seats arrayed in semicircles and rising to a far wall. This appears to be an empty lecture hall."
+  - image_path: jesse-classroom-leftfacing-th.jpg
+    alt: "Jesse teaching a Library Carpentry workshop at the Library of Congress for a group of librarians from across the federal government."
     title: "Teaching"
     excerpt: "I have taught courses at the Library of Congress, University of Maryland College of Information Studies, George Mason University, Bowling Green State University, and the University of Michigan-Dearborn."
     url: /teaching/
