@@ -44,9 +44,9 @@ Every interaction with a funder, as Holly Falk-Krzesinski, PhD, puts it, is a ch
 
 # More information
 
-There are many resources on related topics available. Here are just a few additional pieces of advice: 
+There are many resources on related topics. Here's a few additional pieces of advice: 
 * The Foundation Center offers advice in its knowledge base specifically geared toward [reaching out to program officers at foundations](https://learning.candid.org/resources/knowledge-base/approaching-foundations/). 
 * Christie George offers "[Six Rules for Reaching Out to Funders](https://medium.com/new-media-venture/six-rules-for-reaching-out-to-funders-775306917998)." 
-* And Melanie Palmer reflects on "[How Grant Seeking Is Like Online Dating](https://authorbrickroad.com/how-grant-seeking-is-like-online-dating/)".  
+* Melanie Palmer reflects on "[How Grant Seeking Is Like Online Dating](https://authorbrickroad.com/how-grant-seeking-is-like-online-dating/)".  
 
 For more of my advice on pursuing grant funding, check out the ["Research Funding" category](/categories/#research-funding).
