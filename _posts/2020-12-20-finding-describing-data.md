@@ -1,10 +1,15 @@
 ---
-title: 'Wrangling Humanities Data: Part 1, Finding and Describing Data'
+title: 'Wrangling Humanities Data: Finding and Describing Data'
 date: 2020-12-20
 permalink: /posts/2020/finding-describing-data/
-excerpt: 'This post begins a series that will walk through basic steps in a data preservation and analysis workflow. In this first step, I walk through the process of creating essential preservation metadata to transform a group of files into an archivable package. This is the first post in the "Wrangling NEH Data" series.'
+excerpt: 'This post begins a series that will walk through basic steps in a data preservation and analysis workflow. This step walks through the process of creating essential preservation metadata to transform a group of files into an archivable package. This is the first post in the "Wrangling NEH Data" series.'
 header:
-  teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
+  overlay_image: "binary-1280w.jpg"
+  overlay_filter: 0.3
+  image_description: "Rows and columns of 0 and 1 with a blue background."
+  caption: "Photo by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
+  og_image: "binary-1280w.jpg"
+  teaser: "binary-th.png"
 categories:
   - mapping humanities
   - data curation
