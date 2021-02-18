@@ -1,5 +1,5 @@
 ---
-title: 'Wrangling Humanities Data: Part 2, Cleaning and Transforming Data'
+title: 'Wrangling Humanities Data: Cleaning and Transforming Data'
 date: 2021-01-19
 permalink: /posts/2021/cleaning-transforming-data/
 excerpt: 'This post continues the "Wrangling NEH Data" series. This installment cleans and transforms the original data to create a geospatial dataset.'
