@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Statement"
 permalink: /research/
 excerpt: "This page describes my research interests and projects."
 author_profile: true
@@ -9,8 +9,6 @@ redirect_from:
   - /research.html
 ---
 
-
-## Research statement
 
 I am a scholar and archivist who specializes in digital preservation, collection management, scholarly communications, and musics of Eastern Europe and Southeast Asia. My music research focuses on music cultures of Eastern Europe, Southeast Asia, and the United States centering on themes of performance studies, globalization, music and media, and digital and material cultures. In information studies, I have focused on user practices in sound archives, federal records management policy, and digital collections management. I have received numerous awards for my work. In 2005, <a href="http://www.ns.umich.edu/index.html?Releases/2005/Nov05/r111405c">I received a <span itemprop="award">Fulbright Grant<meta itemprop="dc:date" content="2005"/></span></a> to complete my doctoral research; in 2008, <a href="http://www.music.umich.edu/departments/musicology/CuylerPrizePastRecipients.htm">I received the <span itemprop="award"><meta itemprop="dc:date" content="2008">Louise Cuyler Award</span></a> from the UM Department of Musicology; and in 2012, <a href="https://www.si.umich.edu/newsandevents/margaret-mann-award-recipients-1941-present" alt="http://www.si.umich.edu/newsandevents/press/umsi-2012-graduation-marks-75th-anniversary-margaret-mann-award">I received the <span itemprop="award"><meta itemprop="dc:date" content="2012">Margaret Mann Award</span></a> from the UM School of Information.
 
