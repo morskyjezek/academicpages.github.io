@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /public-writing/
 title: "Public Writing"
 excerpt: "A list of essays and posts that I have published on public websites, including for the Library of Congress and the National Endowment for the Humanities."
