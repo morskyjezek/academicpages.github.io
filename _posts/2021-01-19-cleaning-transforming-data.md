@@ -1,10 +1,15 @@
 ---
-title: 'Wrangling Humanities Data: Part 2, Cleaning and Transforming Data'
+title: 'Wrangling Humanities Data: Cleaning and Transforming Data'
 date: 2021-01-19
 permalink: /posts/2021/cleaning-transforming-data/
-excerpt: 'This post continues the "Wrangling NEH Data" series. This installment demonstrates cleaning and transforming the original data to create a geospatial dataset.'
+excerpt: 'This post continues the "Wrangling NEH Data" series. This installment cleans and transforms the original data to create a geospatial dataset.'
 header:
-  teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
+  overlay_image: "binary-1280w.jpg"
+  overlay_filter: 0.3
+  image_description: "Rows and columns of 0 and 1 with a blue background."
+  caption: "Image by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
+  og_image: "binary-1280w.jpg"
+  teaser: "binary-th.png"
 read_time: false
 categories:
   - mapping humanities

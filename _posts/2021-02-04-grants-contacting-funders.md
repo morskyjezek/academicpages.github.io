@@ -3,7 +3,6 @@ title: 'When Should You Reach out to a Funder?'
 date: 2021-02-04
 permalink: /posts/2021/grants-contacting-funders/
 excerpt: 'Speaking with a funder can be an effective way to see how your work best fits with current opportunities and priorities. This post offers pointers for how to initiate a conversation.'
-
 header:
   overlay_image: "meeting-1280w.jpg"
   overlay_filter: 0.3

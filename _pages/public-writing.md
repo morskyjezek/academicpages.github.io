@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /public-writing/
 title: "Public Writing"
 excerpt: "A list of essays and posts that I have published on public websites, including for the Library of Congress and the National Endowment for the Humanities."
@@ -9,8 +10,12 @@ redirect_from:
 ---
 
 The following articles were written for a general audience and posted
-on the websites of the National Endowment for the Humanities and the
-Library of Congress.
+on the websites of the National Endowment for the Humanities, the
+Library of Congress, and the University of Michigan.
+
+## University of Michigan
+
+* "[Managing internal nomination and peer review processes to reduce bias](https://myumi.ch/K4p5P)," whitepaper prepared for University of Michigan Office of Research with Nick Wigginton, Tabbye Chavous, and Eric Shaw. February 2021. Available at [https://myumi.ch/K4p5P](https://myumi.ch/K4p5P). 
 
 ## Library of Congress
 
