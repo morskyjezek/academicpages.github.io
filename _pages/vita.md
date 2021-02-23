@@ -53,6 +53,10 @@ redirect_from:
 
 ## Teaching
 
+### Library Carpentry
+
+* Certified instructor for [Library Carpentry](https://librarycarpentry.org/) by [The Carpentries](https://carpentries.org/), completed 2019. Organized and taught workshops at the Library of Congress, American University, Clemson University, and others.
+
 ### University of Maryland
 
 * Implementing Digital Curation (INST 742, <a href="https://goo.gl/NuxV6y">2018 syllabus</a>, <a href="https://goo.gl/udK14A">2019 syllabus</a>)
