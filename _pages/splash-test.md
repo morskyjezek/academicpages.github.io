@@ -9,8 +9,11 @@ header:
 #  caption: "Photo by [Valdemaras D.](https://unsplash.com/@deko_lt) on [Unsplash](https://unsplash.com/s/photos/library)"
 #  image: bookstacks-diagram-wide.jpg
 #  alt: 'A cross-section schematic of the book stacks designed in the 1890s for the Library of Congress by the Snead & Company Ironworks. Image cropped from "Longitudinal section of north stack, Library of Congress, Washington, D.C. (fig. 4)," Library of Congress ([LCCN 2007682525](https://www.loc.gov/item/2007682525/)).'
-  image: water-sand-1280w-short.jpg
-  alt: "Image of a shallow, sandy-bottomed bay in Lake Superior with light playing over the rippled surface."
+#  image: water-sand-1280w-short.jpg
+#  alt: "Image of a shallow, sandy-bottomed bay in Lake Superior with light playing over the rippled surface."
+  image: mackinac-bridge-1280w.jpg
+  alt: "Photo of the Mackinac Bridge at sunrise. Photo by Aaron Burden on Unsplash."
+  image_caption: "Mackinac Bridge photo by [Aaron Burden](https://unsplash.com/@aaronburden) on Unsplash."
 excerpt: "Jesse Johnston is a researcher, archivist, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 intro:
   - excerpt: "Jesse Johnston is a researcher, archivist, librarian, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
