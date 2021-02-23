@@ -9,7 +9,7 @@ header:
   image_description: "Two people smiling and talking to each other."
   caption: "Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on Unsplash"
   og_image: "meeting-1280w.jpg"
-  teaser: "meeting-1280w.jpg" # Photo by Christina @ wocintechchat.com at unsplash
+  teaser: "meeting-th.jpg" # Photo by Christina @ wocintechchat.com at unsplash
 categories:
   - research funding
 tags:
