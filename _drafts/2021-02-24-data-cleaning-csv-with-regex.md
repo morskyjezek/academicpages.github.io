@@ -1,10 +1,15 @@
 ---
-title: 'Wrangling Humanities Data: Using Regex for Power Cleaning a CSV'
-date: 2021-02-10
+title: 'Wrangling Humanities Data: Using Regex to Clean a CSV'
+date: 2021-02-24
 permalink: /posts/2021/data-cleaning-csv-with-regex/
-excerpt: 'This "Wrangling Humanities Data" installment explores the use of regular expressions (an advanced pattern matching tool), in combination with some of the powerful editing features of VSCode (an free text editor), to clean plain text data.'
+excerpt: 'Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain text data.'
 header:
+  overlay_image: "binary-1280w.jpg"
+  overlay_filter: 0.3
+  image_description: "An image representing binary data with rows and columns of 0s and 1s with a blue background."
+  caption: "Photo by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
   teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
+  og_image: "binary-th.png"
 categories:
   - data curation
 tags:
