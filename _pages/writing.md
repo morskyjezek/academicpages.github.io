@@ -23,18 +23,18 @@ redirect_from:
 <!--  List of "Public writing" -->
 
   {% for page in site.pages %}
-    {% if post.name = "publications.md" %}
-      <h2> {% post.title %} </h2>
+    {% if page.name = "publications.md" %}
+      <h2> {% page.title %} </h2>
       
-      {% post.content %}
+      {% page.content %}
 
     {% endif %}
     
 <!-- List of publications -->
-    {% if post.name = "public-writing.md" %}
-      <h2> {% post.title%} </h2>
+    {% if page.name = "public-writing.md" %}
+      <h2> {% page.title%} </h2>
 
-      {% post.content %}
+      {% page.content %}
 
     {% endif %}
 
