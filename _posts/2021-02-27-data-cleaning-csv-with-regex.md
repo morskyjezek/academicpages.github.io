@@ -1,6 +1,7 @@
 ---
 title: 'Wrangling Humanities Data: Using Regex to Clean a CSV'
-date: 2021-02-27
+date: 2021-02-28
+published: false
 permalink: /posts/2021/data-cleaning-csv-with-regex/
 excerpt: 'Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain text data.'
 header:
@@ -20,7 +21,6 @@ tags:
 Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain text data. The data in question comes from a larger project, which is pulling bibliographic data from a major citation database in CSV form, transforming the data and extracting certain elements (DOIs of publications), then feeding the information into Zotero to create a shared bibliography. 
 
 * Explain some of the regex patterns and techniques to clean a broken CSV. 
-* Reference at least to the ARL tech services blog post on regex.
 
 The Covid-19 pandemic, now underway for nearly a year, has brought about major reorientations in health and bioscience research. This has been seen in the work to develop new vaccines, investigations about the effectiveness of public health measures, and the direct impact as well as cascading effects of the disease on particular communities, among many other areas. At research institutions, like many large state universities, active research into the novel coronavirus has ramped up, and many existing research projects and labs have been reoriented to investigate the virus and the disease. This has resulted in an outpouring of medical, scientific, and social research publications. At the University of Michigan, the Office of Research has been tracking these publications since April. As with so many things involving the Covid pandemic, our work has been responsive, but quickly changing and developing to the new situation; in the last ten months, we have honed the process of identifying citations, identified multiple ways to present the list of publications, and reworked the workflow to gather and process the data. 
 
@@ -46,7 +46,7 @@ VS Code is full of handy keyboard shortcuts, and you can even create new ones! I
 Regular expressions are a useful set of pattern-searching techniques, which allow you to find very specific patterns within text. For example, have you ever searched in multiple sites and noticed that you want to find things with both British and American spellings? For example, all of the times where the word digitize appears, but you know that it might be spelled digitize or _digitise_? Regular expressions can help! In this case, if you have a search tool that can search with regular expressions, you could input the string `digiti[sz]e`, and it would be able to match either spelling. The regular expression syntax is complicated and can be quite powerful, but I am only going to go into a few specific search expressions in this post. If you're interested to learn more about regular expressions, or "regex" as they are often called, check out the [introduction from Library Carpentry](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html), or search for one of the many cheatsheets available online, such as this [Regex cheat sheet from MIT](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf).
 
 ![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-find-replace.png)
-The find and replace console appearing at the upper right corner of the VSCode window. You can bring up the window by typing `Ctrl + F` (`Cmd + F` on MacOS) or opening the `Edit` pull-down menu and selecting `Find`.
+The find and replace console (above) appears at the upper right corner of the VSCode window. You can bring up the window by typing `Ctrl + F` (`Cmd + F` on MacOS) or opening the `Edit` pull-down menu and selecting `Find`.
 
 Once you have identified some the regex that you want to use, you can use a text editor like VSCode to search for the patterns that match your regex. Regex also offers more advanced usage that supports selecting and changing certain patterns. That is not what I am discussing here, but you can learn more about that functionality in [Bohyun Kim's post at the ACRL TechConnect Blog](https://acrl.ala.org/techconnect/post/fear-no-longer-regular-expressions/). 
 
