@@ -8,8 +8,8 @@ header:
   overlay_filter: 0.3
   image_description: "An image representing binary data with rows and columns of 0s and 1s with a blue background."
   caption: "Photo by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
-  teaser: "binary-th.png" # Image https://pixabay.com/users/geralt-9301/ by Gerd Altmann on Pixabay
-  og_image: "binary-th.png"
+  teaser: "binary-th.jpg"
+  og_image: "binary-th.jpg"
 categories:
   - data curation
 tags:
