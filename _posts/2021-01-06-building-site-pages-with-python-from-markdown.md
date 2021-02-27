@@ -4,7 +4,12 @@ date: 2021-01-06
 permalink: /posts/2021/building-site-pages-with-python/
 excerpt: 'After moving this site to jekyll, I developed a new python script to automatically generate individual pages for my teaching experiences. This post provides the code developed in a Jupyter notebook.'
 header:
-  teaser: "board-electronics.png" # Image https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_content=453758
+  overlay_image: "board-electronics.png"
+  overlay_filter: 0.3
+  image_description: "A closeup image of a green circuit board with silver circuit lines running diagonally across it."
+  caption: "Image by [blickpixel](https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_content=453758) on [Pixabay](https://pixabay.com/photos/board-electronics-computer-453758/)"
+  og_image: "board-electronics.png"
+  teaser: "board-electronics-th.jpg"
 categories:
   - technology
 tags:
