@@ -1,9 +1,9 @@
 ---
 title: "Library Carpentry"
 collection: teaching
-type: "Professional workshop"
+type: "Professional workshops"
 permalink: /teaching/2020-12-01-library-carpentry
-venue: "Library of Congress"
+venue: "Library of Congress (and other locations)"
 date: 2020-12-01
 location: "Washington, DC"
 ---
