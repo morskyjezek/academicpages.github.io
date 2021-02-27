@@ -9,7 +9,7 @@ header:
   image_description: "Rows and columns of 0 and 1 with a blue background."
   caption: "Image by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
   og_image: "binary-1280w.jpg"
-  teaser: "binary-th.png"
+  teaser: "binary-th.jpg"
 read_time: false
 categories:
   - mapping humanities
