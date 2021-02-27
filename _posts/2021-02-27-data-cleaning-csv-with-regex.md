@@ -1,6 +1,6 @@
 ---
 title: 'Wrangling Humanities Data: Using Regex to Clean a CSV'
-date: 2021-02-24
+date: 2021-02-27
 permalink: /posts/2021/data-cleaning-csv-with-regex/
 excerpt: 'Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain text data.'
 header:
@@ -16,6 +16,8 @@ tags:
   - regex
   - humanities data
 ---
+
+Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain text data. The data in question comes from a larger project, which is pulling bibliographic data from a major citation database in CSV form, transforming the data and extracting certain elements (DOIs of publications), then feeding the information into Zotero to create a shared bibliography. 
 
 * Explain some of the regex patterns and techniques to clean a broken CSV. 
 * Reference at least to the ARL tech services blog post on regex.
