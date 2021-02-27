@@ -29,8 +29,12 @@ redirect_from:
       {% page.content %}
 
     {% endif %}
-    
+
+  {% endfor %}
+
 <!-- List of publications -->
+  {% for page in site.pages %}
+  
     {% if page.name = "public-writing.md" %}
       <h2> {% page.title%} </h2>
 
