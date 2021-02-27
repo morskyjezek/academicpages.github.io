@@ -9,7 +9,8 @@ redirect_from:
   - /writing.html
 ---
 
-Stuff for "related" cards - essays select by topic
+{% include base_path %}
+<!-- Stuff for "related" cards - essays select by topic -->
 
     <div class="grid__wrapper">
     {% for post in site.posts %}
