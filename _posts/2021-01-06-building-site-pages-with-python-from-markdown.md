@@ -9,7 +9,6 @@ categories:
   - technology
 tags:
   - python
-  - teaching
   - data
   - data wrangling
   - web publishing
