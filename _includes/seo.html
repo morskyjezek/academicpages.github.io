@@ -61,6 +61,10 @@
   {% if page.header.image %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+  {% comment %}next 3 lines to insert og_image if header image is not present; else catches when no og_image or header.image specified {% endcomment %}
+  {% elsif page.header.og_image %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ page.header.og_image | prepend: "/images/" | prepend: base_path }}"  
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if site.og_image %}
