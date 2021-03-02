@@ -110,26 +110,6 @@ Then, delete! This time I used the remove line (`Ctrl + X`) again.
 #### Identify and remove remaining unwanted content
 
 Now, most of the blank or extra lines are gone, but there are still the remaining lines that begin in the middle of a cell Now that the other lines are gone, I can identify these lines by matching anything that _doesn't_ have a number at the beginning. Then, to prevent the deletion of content beyond the cell (delineated by a double quotation mark), the pattern stops when it finds a double quotation mark.
-<!-- 
-
-```regex
-^[^0-9]+\.(?=") DOESN'T WORK
-```
-
-Using the multiple select all, I highlight these and delete them. At this point, most of the unwanted lines are gone. There are, however, still a few cases that I didn't catch, particularly in cases where the cell may have included multiple double quotation marks. 
-
-
-Match line that does not begin with number, and match characters until it sees a period/dot, which is preceeded by a quotation mark. Strangely, this did not match many of the lines that don't begin with numbers, but it does help to select many of the lines that are broken. Just use the multi-select, then hit delete.
-
-```regex
-^"
-```
-
-Match any remaining lines that begin with a double quotation mark, use the multi-select, then backspace one to move these up to the end of the preceeding lines.
-
-^[^0-9]*\.
-Match non-digit begun lines, any characters until a dot. Multi-select, then delete.
--->
 
 ```regex
 ^[^0-9][^"]+
