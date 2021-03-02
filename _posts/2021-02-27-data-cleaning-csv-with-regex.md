@@ -81,9 +81,8 @@ Reviewing the remaining lines, I noticed that many of the lines were not blank, 
 ^[\s]{6}.*\n(?!^[0-9])
 ```
 
-All of this text can be deleted using the multiple select (see note below).
-
 ![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/regex-6-blanks-not-preceeding-numeral-at-beginning-of-line.png) 
+
 This is how [regexper visualizes](https://regexper.com/#%5E%5B%5Cs%5D%7B6%7D.*%5Cn%28%3F!%5E%5B0-9%5D%29) the match.
 
 Instead of using the delete line method of removing the material, as previously, I used a different approach this time. This pattern selects the entire line, so using the multiple select selects the entirety of the undesired content. To remove this, use the multiple select (`Shift + Ctrl + L` or `Shift + Cmd + L`), then hit the delete key. Bye bye!
