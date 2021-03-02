@@ -31,7 +31,7 @@ Okay, let's get into text editors and regex!
 ## Using the text editor
 
 ![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-editing.png)
-Above, the VSCode interface. Here displayed is the CSV file that I discuss in more detail below. Note that the rows are very easy to distinguish and individual fields as noted in the header row are color-coded, which makes the data somewhat easier to read in lower rows. Various extensions can be added to VSCode to aid in the processing of CSV files, which are available in the 
+Above, the VSCode interface. Here displayed is the CSV file that I discuss in more detail below. Note that the rows are very easy to distinguish and individual fields as noted in the header row are color-coded, which makes the data somewhat easier to read in lower rows. Various extensions can be added to VSCode to aid in the processing of CSV files, which are available in the VSCode extension "marketplace" (note that most of the CSV extensions are free). In the above illustration, I am using the "Rainbow CSV" extension to make the "cells" more visible to a human reader - this makes each field in the line a different color, which is much easier to see than a tiny comma.
 
 ### Power editing with keyboard commands
 
@@ -47,7 +47,7 @@ Regular expressions are a useful set of pattern-searching techniques, which allo
 
 ![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-find-replace.png)
 
-Many advanced text editors support the use of regular expressions, which can be used to conduct advanced searches. In VSCode, you can bring up the window by typing `Ctrl + F` (`Cmd + F` on MacOS) or opening the `Edit` pull-down menu and selecting `Find`. The find and replace console (above) appears at the upper right corner of the VSCode window, and you can activate (or deactivate) the option to use regular expressions in searches by selecting the button at the right end of the search input prompt.
+Many advanced text editors support the use of regular expressions, which can be used to conduct advanced searches. In VSCode, you can bring up the window by typing `Ctrl + F` (`Cmd + F` on MacOS) or opening the `Edit` pull-down menu and selecting `Find`. The find and replace console (above) appears at the upper right corner of the VSCode window, and you can activate (or deactivate) the option to use regular expressions in searches by selecting the button at the right end of the search input prompt (above, note that `.*` is highlighted).
 
 ### Locating errors in a CSV using regex
 
