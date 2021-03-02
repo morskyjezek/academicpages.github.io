@@ -94,7 +94,7 @@ There were still some lines that looked blank, which turned out to be special ta
 ```regex
 ^[\t].*\n(?![0-9])
 ```
-Then select, delete, and :wave:!
+Then select, delete, and buh bye!
 
 #### Identify lines with odd characters
 
@@ -126,11 +126,11 @@ There are still a few lines that need help. I identified these by searching for 
 
 At this point, there are only a few (for February's CSV there were only 3!), and these can be corrected one by one.
 
-Finally, I use the CSVLint extension of VSCode, which looks for errors. There were a few lines that were missing a cell, which means that some of these patterns were selecting and/or deleting too much. These lines still had the most important information - the DOI - that I wanted, so I fixed each line by adding an extra cell at the end by appending a comma to the end of the line. :kissing_cat: 
+Finally, I use the CSVLint extension of VSCode, which looks for errors. There were a few lines that were missing a cell, which means that some of these patterns were selecting and/or deleting too much. These lines still had the most important information - the DOI - that I wanted, so I fixed each line by adding an extra cell at the end by appending a comma to the end of the line. 
 
 ## Conclusion
 
-After this exercise, I can't say that regular expressions are my favorite tool. They are fussy and it is not always clear why certain patterns match (obviously it is to the computer, but for the mere mortal there are strange cases). That said, it is fun to think about how the pattern will work, and whether it is going to match exactly the content that you want. 
+After this exercise, I can't say that regular expressions are my favorite tool. They are fussy and esoteric. It is not always clear why certain patterns match (obviously the computer knows, but it cna take a while to decrypt what is happening even if you are the person who wrote the expression), and the patterns often don't do quite what you think they will (note that I still had about 6 lines to fix by hand because of uncaught errors). That said, there is something fun in thinking through how the pattern will work, and whether it is going to match exactly the content that you want. 
 
 That joy of finding and matching patterns is likely what programmers find appealing about the game of "regex golf". That's basically a riddle game where you have two groups of strings (say, the titles of _Star Trek_ and _Star Wars_ movies), then you try to create a pattern that matches all of the items in one list, but none of the ones in the other list. I'm not sure I would play the game, but after working through some "real world" examples, I can see the appeal (but also frustration) in that work. To end, here is an XKCD about regex golf (I had to read [the explanation](https://www.explainxkcd.com/wiki/index.php/1313:_Regex_Golf)): 
 
