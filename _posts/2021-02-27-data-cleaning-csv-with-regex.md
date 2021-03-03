@@ -145,4 +145,4 @@ If you are interested in working with regular expressions, you may find these re
 * Information about ["lookaround" patterns](http://www.rexegg.com/regex-lookarounds.html) from [rexegg](http://www.rexegg.com/)
 * Regex cheatsheet from [MIT](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
 * Bohyun Kim's post at the ACRL TechConnect Blog, "[Fear No Longer Regular Expressions](https://acrl.ala.org/techconnect/post/fear-no-longer-regular-expressions/)"
-* [Library Carpentry](https://librarycarpentry.org/) offers a [great introduction and overview to regular expressions](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html)
+* [Library Carpentry](https://librarycarpentry.org/) offers a [great introduction to regular expressions](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html)
