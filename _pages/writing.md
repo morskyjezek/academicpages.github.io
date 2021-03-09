@@ -14,7 +14,7 @@ redirect_from:
 
     <div class="grid__wrapper">
     {% for post in site.posts %}
-      {% if post.category = "research funding" limit:4 %}
+      {% if post.category == "research funding" limit:4 %}
         {% include archive-single.html type="grid" %}
       {% endif %}
     {% endfor %}
