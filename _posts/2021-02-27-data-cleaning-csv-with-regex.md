@@ -31,7 +31,7 @@ Okay, let's get into text editors and regex!
 ## Using the text editor
 
 ![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-editing.png)
-Above, the VSCode interface. Here displayed is the CSV file that I discuss in more detail below. Note that the rows are very easy to distinguish and individual fields as noted in the header row are color-coded, which makes the data somewhat easier to read in lower rows. Various extensions can be added to VSCode to aid in the processing of CSV files, which are available in the VSCode extension "marketplace" (note that most of the CSV extensions are free). In the above illustration, I am using the "Rainbow CSV" extension to make the "cells" more visible to a human reader - this makes each field in the line a different color, which is much easier to see than a tiny comma.
+Above, the VSCode interface. Here displayed is the CSV file that I discuss in more detail below. Note that the rows are very easy to distinguish and individual fields as noted in the header row are color-coded, which makes the data somewhat easier to read in lower rows. Various extensions can be added to VSCode to aid in the processing of CSV files, which are available in the VSCode extension "marketplace" (note that most of the CSV extensions are free). In the above illustration, I am using the "[Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)" extension to make the "cells" more visible to a human reader - this makes each field in the line a different color, which is much easier to see than a tiny comma.
 
 ### Power editing with keyboard commands
 
