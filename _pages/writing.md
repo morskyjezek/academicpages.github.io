@@ -1,0 +1,42 @@
+---
+layout: archive
+title: "Writing"
+permalink: /writing/
+author_profile: true
+redirect_from:
+  - /writing
+  - /my-writing/
+  - /writing.html
+---
+
+{% include base_path %}
+<!-- Stuff for "related" cards - essays select by topic -->
+
+    <div class="grid__wrapper">
+    {% for post in site.posts %}
+      {% if post.category = "research funding" limit:4 %}
+        {% include archive-single.html type="grid" %}
+      {% endif %}
+    {% endfor %}
+    </div>
+
+<!--  List of "Public writing" -->
+
+  {% for page in site.pages %}
+    {% if page.name == "public-writing.md" %}
+      <h1> {% page.title %} </h1>
+      
+      {% page.content %}
+
+    {% endif %}
+
+<!-- List of publications -->
+  
+    {% if page.name == "publications.md" %}
+      <h1> {% page.title %} </h1>
+
+      {% page.content %}
+
+    {% endif %}
+
+  {% endfor %}
