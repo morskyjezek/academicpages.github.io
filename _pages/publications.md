@@ -117,7 +117,7 @@ While working in the public sector, I frequently contributed writing for publica
 
 <h4>2012</h4>
 <ul>
-    <li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="static/papers/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)</li>
+    <li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="{{ site.url }}{{ site.baseurl }}/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)</li>
     <li>&ldquo;Of Singing Trees and Roaring Rivers: Sounding Out South Moravian Sound Terrains.&rdquo; Midwest Slavic Conference, Columbus, Ohio.</li>
     <li>&ldquo;Tensions of Managing and Using: A Qualitative Study of Audio Archiving.&rdquo; Research forum platform presentation, Annual Meeting of the Society of American Archivists, San Diego, California. (<a href="http://www2.archivists.org/proceedings/research-forum/2012">link to forum proceedings</a>)</li>
     <li>Panelist, "Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries." Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.</li>
