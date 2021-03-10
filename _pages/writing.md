@@ -22,15 +22,8 @@ redirect_from:
 
 <!--  List of "Public writing" -->
 
-  {% for post in site.pages %}
-
-    {% if post.name == "public-writing.md" %}
-      <h1> {% post.title %} </h1>
-      
-      {% post.content %}
-
-    {% endif %}
+ 
 
 <!-- List of publications -->
   
-  {% endfor %}
+ 
