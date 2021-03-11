@@ -15,7 +15,7 @@ Library of Congress, and the University of Michigan.
 
 ## University of Michigan
 
-* "[Managing internal nomination and peer review processes to reduce bias](https://myumi.ch/K4p5P)," whitepaper prepared for University of Michigan Office of Research with Nick Wigginton, Tabbye Chavous, and Eric Shaw. February 2021. Available at [https://myumi.ch/K4p5P](https://myumi.ch/K4p5P). 
+* "[Managing internal nomination and peer review processes to reduce bias](https://myumi.ch/K4p5P)," whitepaper prepared for University of Michigan Office of Research with Nick Wigginton, Tabbye Chavous, and Eric Shaw (February 2021). Available at [https://myumi.ch/K4p5P](https://myumi.ch/K4p5P). 
 
 ## Library of Congress
 
