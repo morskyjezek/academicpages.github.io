@@ -9,14 +9,26 @@ redirect_from:
   - /writing.html
 ---
 
-{% include base_path %}
 <!-- Stuff for "related" cards - essays select by topic -->
 
-    <div class="grid__wrapper">
-    {% for post in site.posts %}
-      {% if post.category == "research funding" limit:4 %}
-        {% include archive-single.html type="grid" %}
-      {% endif %}
-    {% endfor %}
-    </div>
+{% for post in site.categories | where:"category", "research funding" %}
+  {{ post.title }}
+{% endfor %}
 
+<!-- list of publications -->
+<h2>My Publications</h2>
+<p>publications here</p>
+
+<!-- public writing list -->
+<h2>My Public Writing</h2>
+
+<p>Public writing page here!</p>
+
+<!-- generate list of all research funding posts -->
+<h2>Recent Essays on Research Funding</h2>
+{% assign funding_posts = site.posts | where:category[0], "research funding" %}
+<ul>
+{% for post in funding_posts %}
+  <li>{{ post.title }} at {{ post.url }}</li>
+{% endfor %}
+</ul>
