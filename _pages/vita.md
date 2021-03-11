@@ -3,6 +3,7 @@ layout: archive
 title: "Vita"
 permalink: /vita/
 author_profile: true
+as_of_date: 2021-01-01
 redirect_from:
   - /resume
   - /cv/
@@ -112,5 +113,6 @@ redirect_from:
 * German (reading)
 * Spanish (basic)
 
-> Updated January 2021
- 
+{% if page.as_of_date %}
+> Updated {{ page.as_of_date | date: "%B %Y" }}
+{% endif %} 
