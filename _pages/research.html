@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Research"
+permalink: /research-dev/
+author_profile: true
+redirect_from:
+  - /research.html
+---
+
+<hr />
+<!-- list of publications -->
+
+{% assign research_statement = site.pages | where: "name", "research-statement.md" %}
+
+{% for post in research_statement %}
+  {{ post.content }}
+{% endfor %}
+
