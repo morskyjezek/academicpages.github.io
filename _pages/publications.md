@@ -3,10 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+as_of_date: 2020-07-10
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my scholarly articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a> or at my <a href="{{ site.author.orcid }}">Orcid profile</a>.
 {% endif %}
 
 {% include base_path %}
@@ -16,8 +17,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 {% endcomment %}
-
-While working in the public sector, I frequently contributed writing for publication in less formal venues. Those pieces are listed on my ["Public Writing" page](/public-writing/).  
 
 ## Articles
 
@@ -176,4 +175,6 @@ While working in the public sector, I frequently contributed writing for publica
 <li>Book Review of <em>Koment&aacute;ře [Commentary]</em>, vol. 1 of <i>Jan&aacute;čkovy z&aacute;znamy hudebn&iacute;ho a tanečn&iacute;ho folkloru [Jan&aacute;ček’s Records of Musical and Dance Folklore]</i>, ed. Jarmila Proch&aacute;zkov&aacute; (Brno, 2006). <em>Kosmas Czechoslovak and Central European Journal</em> 20 (2007).</li>
 </ul>
 
-> Updated July 2020
+{% if post.as_of_date %}
+> Updated {{ post.as_of_date | date: "%B %Y" }}
+{% endif %}
