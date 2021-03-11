@@ -3,7 +3,7 @@ layout: archive
 title: "Vita"
 permalink: /vita/
 author_profile: true
-as_of_date: 2021-01-01
+as_of_date: 2021-03-01
 redirect_from:
   - /resume
   - /cv/
