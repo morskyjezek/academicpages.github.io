@@ -175,6 +175,6 @@ as_of_date: 2020-07-10
 <li>Book Review of <em>Koment&aacute;ře [Commentary]</em>, vol. 1 of <i>Jan&aacute;čkovy z&aacute;znamy hudebn&iacute;ho a tanečn&iacute;ho folkloru [Jan&aacute;ček’s Records of Musical and Dance Folklore]</i>, ed. Jarmila Proch&aacute;zkov&aacute; (Brno, 2006). <em>Kosmas Czechoslovak and Central European Journal</em> 20 (2007).</li>
 </ul>
 
-{% if post.as_of_date %}
-> Updated {{ post.as_of_date | date: "%B %Y" }}
+{% if page.as_of_date %}
+> Updated {{ page.as_of_date | date: "%B %Y" }}
 {% endif %}
