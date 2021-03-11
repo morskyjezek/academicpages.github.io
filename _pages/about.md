@@ -1,8 +1,18 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About Jesse"
+title: "Jesse Johnston"
 author_profile: true
+header:
+  image: water-sand-1280w-short.jpg
+  alt: "Image of a shallow, sandy-bottomed bay in Lake Superior with light playing over the rippled surface."
+  overlay_image: water-sand-1280w-short.jpg
+  overlay_filter: 0.4
+  image_caption: "Photo by Jesse Johnston"
+  og_image: water-sand-th.jpg
+  teaser: water-sand-th.jpg 
+excerpt: "Librarian and archivist, teacher, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
+intro:
+  - excerpt: "Jesse Johnston is librarian and archivist, teacher, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 redirect_from:
   - /about/
   - /about.html
