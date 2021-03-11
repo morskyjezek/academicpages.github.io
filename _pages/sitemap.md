@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the site content. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of main the site content. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
-{% for post in site.html_pages %}
+{% for post in site.html_pages %}{% comment %} changed site.pages to site.html_pages with the goal of limiting sitemap list to only pages ending in .html - didn't seem to work tho{% endcomment%}
   {% include archive-single.html %}
 {% endfor %}
 
