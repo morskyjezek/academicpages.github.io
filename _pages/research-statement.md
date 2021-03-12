@@ -1,12 +1,9 @@
 ---
 layout: archive
 title: "Research Statement"
-permalink: /research/
-excerpt: "This page describes my research interests and projects."
+permalink: /research-sub1/
+excerpt: "This page describes my research interests and methods."
 author_profile: true
-redirect_from:
-  - /my-research/
-  - /research.html
 ---
 
 
