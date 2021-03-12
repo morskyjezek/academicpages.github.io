@@ -93,14 +93,14 @@ as_of_date: 2020-07-10
 
 ## Conference Papers &amp; Presentations
 
-<h4>2019</h4>
+<h3>2019</h3>
 <ul>
-    <li>Invited Presenter, &ldquo;Library Carpentry @ LOC,&rdquo; Annual Project Directors&rdquo; Meeting of the National Digital Newspapers Program, National Endowment for the Humanities and Library of Congress, Washington, DC. September 2019.</li>
+    <li>Invited Presenter, &ldquo;Library Carpentry @ LOC,&rdquo; Annual Project Directors&rsquo; Meeting of the National Digital Newspapers Program, National Endowment for the Humanities and Library of Congress, Washington, DC. September 2019.</li>
     <li>Panelist, &ldquo;Music Advocacy, Community Collaborations, and Contemporary Identity Politics,&rdquo; 45th World Conference of the International Council for Traditional Music, Bangkok, Thailand. July 2019.</li>
     <li>Invited Delegate, National Conference on Public and Applied Ethnomusicology, funded by the National Endowment for the Arts and held at the American Folklife Center, Washington, DC. May 2019.</li>
 </ul>
 
-<h4>2018</h4>
+<h3>2018</h3>
 <ul>
     <li>Panelist, &ldquo;Ethnomusicology and Career Diversity,&rdquo; Annual Meeting of the Society for Ethnomusicology, Albuquerque, New Mexico. (<a href="https://goo.gl/kS83q9">presentation slides</a>)</li>
     <li>&ldquo;Identifying Test Sets in Federal Web Archives.&rdquo; Ad-hoc lightning talk with Trevor Owens, iPres 2018 Conference, Boston, Massachusetts.</li>
@@ -109,12 +109,12 @@ as_of_date: 2020-07-10
     <li>Panelist, &ldquo;Crossing Fields, Crossing (Career) Paths: A Roundtable on Careers for Ethnomusicologists.&rdquo; Mid-Atlantic Chapter of the Society for Ethnomusicology, College Park, Maryland.</li>
 </ul>
 
-<h4>2016</h4>
+<h3>2016</h3>
 <ul>
     <li>&ldquo;Ethnomusicologists and Practice in the Archives.&rdquo; Annual Meeting of the Society for Ethnomusicology, Washington, DC. (<a href="https://docs.google.com/presentation/d/1miRXaSKfO8rqCqfcb9dZMNXKATksRPH8X6jOHePk2BY/edit?usp=sharing">presentation slides</a>)</li>
 </ul>
 
-<h4>2012</h4>
+<h3>2012</h3>
 <ul>
     <li>&ldquo;Old-Fashioned and Outmoded? An Ethnographic Assessment of Sound Archives in Ethnomusicologies.&rdquo; Annual Meeting of the Society for Ethnomusicology, New Orleans, Louisiana. (<a href="{{ site.url }}{{ site.baseurl }}/files/soundarchivesuse-sem2012-slides.pdf" class="pdf">presentation slides in pdf</a>)</li>
     <li>&ldquo;Of Singing Trees and Roaring Rivers: Sounding Out South Moravian Sound Terrains.&rdquo; Midwest Slavic Conference, Columbus, Ohio.</li>
@@ -122,7 +122,7 @@ as_of_date: 2020-07-10
     <li>Panelist, "Evaluating the Success of Digital Audiovisual Preservation Projects in Libraries." Panel at <em>QuasiCon 2012: The Future of Libraries</em>, Ann Arbor, Michigan, 21 January.</li>
 </ul>
 
-<h4>2011</h4>
+<h3>2011</h3>
 <ul>
     <li>&ldquo;Digital Preservation and the American Black Journal at MATRIX.&rdquo; Research poster, annual meeting of the American Society for Information Science & Technology, New Orleans, Louisiana.</li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/files/ABJ-posterfinal.pdf">&ldquo;Preserving the American Black Journal at MATRIX: Developing a Long-Term Strategy to Preserve and Access Online Digital Video.&rdquo;</a> Research poster, <em>Archives 360&deg;</em>, Annual Meeting of the Society of American Archivists, Chicago, Illinois.</li>
@@ -130,33 +130,33 @@ as_of_date: 2020-07-10
     <li>&ldquo;Performance as Archives in Southeast Asia: An Ethnomusicological Perspective.&rdquo; National Conference of the Association for Asian Studies, Honolulu, Hawai'i.</li>
 </ul>
 
-<h4>2010</h4>
+<h3>2010</h3>
 <ul>
     <li><div itemscope itemtype="http://schema.org/Article"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><span itemprop="publisher" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"/></span><meta itemprop="url" content="{{ site.url }}{{ site.baseurl }}/files/Johnston-SEM2010-webversion.pdf"/><meta itemprop="image" content="{{ site.url }}{{ site.baseurl }}/files/Johnston-SEM2010-webversion.pdf"/><a href="{{ site.url }}{{ site.baseurl }}/files/Johnston-SEM2010-webversion.pdf">&ldquo;<span itemprop="name">Sound Terrains: &lsquo;Soundscape,&rsquo; Place, and Nature in South Moravia</span>.&rdquo;</a><meta itemprop="headline" content="Sound Terrains: 'Soundscape' Place, and Nature in South Moravia"/> Annual Meeting of the <span itemprop="audience">Society for Ethnomusicology</span>, <span itemprop="locationCreated">Los Angeles, California</span>. (<a href="{{ site.url }}{{ site.baseurl }}/files/Sound-Terrains-slides.pdf" class="pdf">presentation slides in pdf</a>)<meta itemprop="datePublished" datetime="2010-11-12" content="12 November 2010"/><meta itemprop="genre" content="conference presentation"/></div></li>
     <li>&ldquo;Moravia as Global Crossroads: Local and &lsquo;World&rsquo; Music in the Southeast Czech Republic.&rdquo; <i>Central and Eastern Europe: Musical Crossroads?</i> Annual Meeting of the Russian and East European Music Study Group, British Association of Slavonic and East European Studies, Faculty of Music, Oxford University.</li>
     <li>&ldquo;Radio Brno, the <i>Brněnsk&yacute; kr&uacute;žek</i> (Brno Circle) and Folk Creativity in Moravia.&rdquo; Czech and Slovak Music and Related Arts conference, Grand Valley State University, Allendale, Michigan.</li>
 </ul>
 
-<h4>2009</h4>
+<h3>2009</h3>
 <ul>
     <li>&ldquo;Instilling &lsquo;True American Spirit&rsquo;? Music at the Culion Leprosarium [Philippines].&rdquo; Annual Meeting of the Society for Ethnomusicology, Mexico City, Mexico.</li>
     <li>&ldquo;The Traditional and the Global: Understanding &lsquo;World Music&rsquo; in Moravia.&rdquo; World Conference of the International Council for Traditional Music, Durban, South Africa.</li>
 </ul>
 
-<h4>2008</h4>
+<h3>2008</h3>
 <ul>
     <li>&ldquo;Making &lsquo;World Music&rsquo; Local in Moravia.&rdquo; Annual Meeting of the Society for Ethnomusicology, Middletown, Connecticut.</li>
     <li>&ldquo;Instrumental Roots: The Dulcimer in the Baca Band.&rdquo; Fourth International Musicology Colloquium, N&aacute;měšť nad Olšavou, Czech Republic.</li>
     <li>&ldquo;Classical Folk Music: Broadcasting Folk Culture in Communist Moravia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Ypsilanti, Michigan.</li>
 </ul>
 
-<h4>2007</h4>
+<h3>2007</h3>
 <ul>
     <li>&ldquo;&lsquo;People&rsquo;s Music&rsquo; and Modernism: Leoš Jan&aacute;ček and Folkloric Performance.&rdquo; Association for the Advancement of Slavic Studies, New Orleans, Louisiana. <span class="highlight">**Awarded the Louise Cuyler prize by the Department of Musicology, University of Michigan**</span></li>
     <li>&ldquo;Local Sounds? Fieldwork, YouTube, and the &lsquo;Romanian&rsquo; Cimbalom in Moravian Slovakia.&rdquo; Midwest Chapter of the Society for Ethnomusicology, Terre Haute, Indiana.</li>
 </ul>
 
-<h4>2004</h4>
+<h3>2004</h3>
 <ul>
     <li>&ldquo;Melodies of Ethnicity: Czechness and Polka Music at Czech-American Festivals.&rdquo; Annual Meeting of the Society for Ethnomusicology, Tucson, Arizona.</li>
 </ul>
