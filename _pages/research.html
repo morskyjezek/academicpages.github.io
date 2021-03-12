@@ -12,6 +12,7 @@ redirect_from:
 {% assign research_statement = site.pages | where: "name", "research-statement.md" %}
 
 {% for post in research_statement %}
+  <h2>{{ post.title }}</h2>
   {{ post.content }}
 {% endfor %}
 
