@@ -31,6 +31,16 @@ redirect_from:
 <h1>Essays</h1>
 <hr />
 
+<h2>On Data in Humanities Work</h2>
+<p>These posts explore some of the tools and issues that may be encountered while working with humanities data.</p>
+
+{% assign hums_data_posts = site.posts | where: "tags", "humanities data" %}
+<ul>
+{% for post in hums_data_posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%e %B %Y" | lstrip }})</li>
+{% endfor %}
+</ul>
+
 <h2>On Research Funding</h2>
 <p>These posts from my blog offer insights for researchers, artists, and performers who may be seeking grants. These articles are for general audiences, although there is an emphasis on those who are approach such funding opportunities from the perspective of university researchers or community members.</p>
 
