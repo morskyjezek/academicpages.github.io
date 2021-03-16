@@ -187,9 +187,9 @@ collections:
   talks:
     output: false #true
     permalink: /:collection/:path/
-  toolkits:
+  funder-toolkits:
     output: true
-    permalink: /:collection/:path/
+    permalink: /toolkits/:path/
 
 
 # Defaults
