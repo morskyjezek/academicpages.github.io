@@ -187,10 +187,10 @@ collections:
   talks:
     output: false #true
     permalink: /:collection/:path/
-  funder-toolkits:
+  toolkits:
     name: "Funder Toolkits"
     output: true
-    permalink: /toolkits/:name/
+    permalink: /:collection/:name/
 
 
 # Defaults
@@ -248,12 +248,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _funder-toolkits
+  # _toolkits
   - scope:
       path: ""
-      type: funder-toolkits
+      type: toolkits
     values:
       layout: single
+      toc: true
       author_profile: false
       share: true
       comment: true
