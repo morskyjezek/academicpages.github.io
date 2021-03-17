@@ -188,8 +188,9 @@ collections:
     output: false #true
     permalink: /:collection/:path/
   funder-toolkits:
+    name: "Funder Toolkits"
     output: true
-    permalink: /toolkits/:path/
+    permalink: /toolkits/:name/
 
 
 # Defaults
