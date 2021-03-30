@@ -24,7 +24,7 @@ At first, it seemed like just another inconvenience that comes up
 from day to day on the news, but as it became clear 
 that the ship would be stuck for _a while_ and we learned that it was potentially disrupting _10% of global trade_, this situation received more and more attention. 
 As photos emerged, the story caught fire and became a 
-social media sensation and a great [meme](https://en.wikipedia.org/wiki/Meme). 
+social media sensation and a great [Internet](https://firstmonday.org/ojs/index.php/fm/article/view/5391/4103) [meme](https://en.wikipedia.org/wiki/Meme). 
 In an early example of remixing, twitter user @jdgtranen recaptioned the photo
 with the BBC logo, combining it with the lyrics from [WAP](https://en.wikipedia.org/wiki/WAP_(song)):
 
