@@ -58,7 +58,7 @@ In this post, I am using basic regex in this example to identify certain pattern
 
 #### Identify lines that do not begin with a numerical index
 
-The lines that were not "broken" all began with a number. Lines that did not begin with a number were causing problems in the file's format, which caused the file to be an invalid CSV. To identify these lines, I searched for any line that begin with an upper- or lower-case letter, which was not followed by a line beginning with a number:
+The lines that were not "broken" all began with a number. Lines that did not begin with a number were causing problems in the file's format, which caused the file to be an invalid CSV. To identify these lines, I searched for any line that begins with an upper- or lower-case letter, which was not followed by a line beginning with a number:
 
 ```regex
 ^[A-Za-z].*\n(?!^[0-9])
@@ -99,13 +99,13 @@ Then select, delete, and buh bye!
 
 #### Identify lines with odd characters
 
-In this case, "odd characters" only turned out to be bullet point characters, which I somewhat serendipitously realized could be selected with this regex:
+At this point, a few lines remained with "odd characters" at the beginning, which turned out to be bullet point characters. After a few tries, I realized serendipitously that the following regex will select these lines:
 
 ```regex
-^[\t]*.\n(?![0-9])
+^.\n(?![0-9])
 ```
 
-Then, delete! This time I used the remove line (`Ctrl + X`) again.
+This is selecting any line that is not followed by a line that begins with a number. Then, select those remaining and delete! This time I used the remove line (`Ctrl + X`) again.
 
 #### Identify and remove remaining unwanted content
 
