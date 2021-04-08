@@ -46,7 +46,7 @@ VS Code is full of handy keyboard shortcuts, and you can even create new ones! I
 
 Regular expressions are a useful set of pattern-searching techniques, which allow you to find very specific patterns within text. For example, have you ever searched in multiple sites and noticed that you want to find things with both British and American spellings? For example, all of the times where the word digitize appears, but you know that it might be spelled digitize or _digitise_? Regular expressions can help! In this case, if you have a search tool that can search with regular expressions, you could input the string `digiti[sz]e`, and it would be able to match either spelling. The regular expression syntax is complicated and can be quite powerful, but I am only going to go into a few specific search expressions in this post. If you're interested to learn more about regular expressions, or "regex" as they are often called, check out the [introduction from Library Carpentry](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html), or search for one of the many cheatsheets available online, such as this [Regex cheat sheet from MIT](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf).
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-find-replace.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-find-replace.png "An image showing a detail from the VS Code interface: the find and replace popup window.")
 
 Many advanced text editors support the use of regular expressions, which can be used to conduct advanced searches. In VSCode, you can bring up the window by typing `Ctrl + F` (`Cmd + F` on MacOS) or opening the `Edit` pull-down menu and selecting `Find`. The find and replace console (above) appears at the upper right corner of the VSCode window, and you can activate (or deactivate) the option to use regular expressions in searches by selecting the button at the right end of the search input prompt (above, note that `.*` is highlighted).
 
@@ -82,7 +82,7 @@ Reviewing the remaining lines, I noticed that many of the lines were not blank, 
 ^[\s]{6}.*\n(?!^[0-9])
 ```
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/regex-6-blanks-not-preceeding-numeral-at-beginning-of-line.png) 
+![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/regex-6-blanks-not-preceeding-numeral-at-beginning-of-line.png "A visualization that provides a visual process diagram of how the regular expression is matched.") 
 
 This is how [regexper visualizes](https://regexper.com/#%5E%5B%5Cs%5D%7B6%7D.*%5Cn%28%3F!%5E%5B0-9%5D%29) the match.
 
@@ -135,7 +135,7 @@ After this exercise, I can't say that regular expressions are my favorite tool. 
 
 That joy of finding and matching patterns is likely what programmers find appealing about the game of "regex golf". That's basically a riddle game where you have two groups of strings (say, the titles of _Star Trek_ and _Star Wars_ movies), then you try to create a pattern that matches all of the items in one list, but none of the ones in the other list. I'm not sure I would play the game, but after working through some "real world" examples, I can see the appeal (but also frustration) in that work. To end, here is an XKCD about regex golf (I had to read [the explanation](https://www.explainxkcd.com/wiki/index.php/1313:_Regex_Golf)): 
 
-![png](https://imgs.xkcd.com/comics/regex_golf.png)
+![png](https://imgs.xkcd.com/comics/regex_golf.png "A comic strip from XKCD that illustrates the game of 'RegEx Golf'.")
 
 ## Resources
 
