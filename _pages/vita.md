@@ -22,8 +22,8 @@ redirect_from:
             
 ## Professional Experience
             
-* Associate Director for Information Strategy and Research Development at Mcubed & Senior Research Development Officer, University of Michigan Office of Research, University of Michigan, 2020&ndash;present
-* Librarian (Senior Digital Collections Specialist), Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
+* Associate Director for Information Strategy and Research Development at Mcubed & Senior Research Development Officer, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
+* Senior Librarian for Digital Collections, Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
 * Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
 * Archives Specialist, Center for Folklife and Cultural Heritage, Smithsonian Institution, 2012&ndash;2013
 * Library Assistant for Audio Digitization, Professor Kelly Askew, <a href="http://www.lsa.umich.edu/caas">Center for Afroamerican and African Studies</a>, University of Michigan, 2011&ndash;2012
